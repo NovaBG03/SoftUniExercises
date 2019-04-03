@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 10\CarSalesman\bin\Debug\CarSalesman.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 10\CarSalesman\bin\Debug\CarSalesman.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 10\CarSalesman\bin\Debug\CarSalesman.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 10\CarSalesman\obj\Debug\CarSalesman.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 10\CarSalesman\obj\Debug\CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 10\CarSalesman\obj\Debug\CarSalesman.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 10\CarSalesman\obj\Debug\CarSalesman.pdb

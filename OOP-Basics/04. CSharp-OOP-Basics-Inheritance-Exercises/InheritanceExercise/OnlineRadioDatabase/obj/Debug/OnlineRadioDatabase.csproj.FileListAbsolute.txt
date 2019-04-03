@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\OnlineRadioDatabase\bin\Debug\OnlineRadioDatabase.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\OnlineRadioDatabase\obj\Debug\OnlineRadioDatabase.pdb

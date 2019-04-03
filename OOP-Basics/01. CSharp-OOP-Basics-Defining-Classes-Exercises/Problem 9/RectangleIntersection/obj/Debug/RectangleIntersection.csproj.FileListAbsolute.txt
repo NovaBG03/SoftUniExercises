@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 9\RectangleIntersection\obj\Debug\RectangleIntersection.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 9\RectangleIntersection\obj\Debug\RectangleIntersection.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 9\RectangleIntersection\bin\Debug\RectangleIntersection.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 9\RectangleIntersection\bin\Debug\RectangleIntersection.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 9\RectangleIntersection\bin\Debug\RectangleIntersection.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 9\RectangleIntersection\obj\Debug\RectangleIntersection.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 9\RectangleIntersection\obj\Debug\RectangleIntersection.pdb

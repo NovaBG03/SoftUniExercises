@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\ConsoleApp51\ConsoleApp51\bin\Debug\ConsoleApp51.exe.config
+C:\Users\Administrator\source\repos\ConsoleApp51\ConsoleApp51\bin\Debug\ConsoleApp51.exe
+C:\Users\Administrator\source\repos\ConsoleApp51\ConsoleApp51\bin\Debug\ConsoleApp51.pdb
+C:\Users\Administrator\source\repos\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.exe
+C:\Users\Administrator\source\repos\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.pdb

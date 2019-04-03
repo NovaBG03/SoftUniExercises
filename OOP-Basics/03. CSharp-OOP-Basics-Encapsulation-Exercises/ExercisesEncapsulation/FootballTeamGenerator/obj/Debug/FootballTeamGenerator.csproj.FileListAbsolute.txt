@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\FootballTeamGenerator\bin\Debug\FootballTeamGenerator.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\FootballTeamGenerator\bin\Debug\FootballTeamGenerator.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\FootballTeamGenerator\bin\Debug\FootballTeamGenerator.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\FootballTeamGenerator\obj\Debug\FootballTeamGenerator.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\FootballTeamGenerator\obj\Debug\FootballTeamGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\FootballTeamGenerator\obj\Debug\FootballTeamGenerator.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\FootballTeamGenerator\obj\Debug\FootballTeamGenerator.pdb

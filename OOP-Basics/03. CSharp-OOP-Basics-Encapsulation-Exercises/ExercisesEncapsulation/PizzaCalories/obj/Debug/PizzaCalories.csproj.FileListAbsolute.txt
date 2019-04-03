@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\PizzaCalories\bin\Debug\PizzaCalories.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\PizzaCalories\bin\Debug\PizzaCalories.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\PizzaCalories\bin\Debug\PizzaCalories.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\PizzaCalories\obj\Debug\PizzaCalories.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\PizzaCalories\obj\Debug\PizzaCalories.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\PizzaCalories\obj\Debug\PizzaCalories.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\PizzaCalories\obj\Debug\PizzaCalories.pdb

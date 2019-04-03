@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\Telephony\bin\Debug\Telephony.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\Telephony\bin\Debug\Telephony.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\Telephony\bin\Debug\Telephony.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\Telephony\obj\Debug\Telephony.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\Telephony\obj\Debug\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\Telephony\obj\Debug\Telephony.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\Telephony\obj\Debug\Telephony.pdb

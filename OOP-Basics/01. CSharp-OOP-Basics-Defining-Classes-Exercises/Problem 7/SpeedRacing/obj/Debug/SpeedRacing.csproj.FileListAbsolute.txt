@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 7\SpeedRacing\bin\Debug\SpeedRacing.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 7\SpeedRacing\bin\Debug\SpeedRacing.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 7\SpeedRacing\bin\Debug\SpeedRacing.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 7\SpeedRacing\obj\Debug\SpeedRacing.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 7\SpeedRacing\obj\Debug\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 7\SpeedRacing\obj\Debug\SpeedRacing.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 7\SpeedRacing\obj\Debug\SpeedRacing.pdb

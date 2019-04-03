@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\AnimalFarm\bin\Debug\AnimalFarm.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\AnimalFarm\bin\Debug\AnimalFarm.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\AnimalFarm\obj\Debug\AnimalFarm.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\AnimalFarm\obj\Debug\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\AnimalFarm\obj\Debug\AnimalFarm.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 6\Company Roster\bin\Debug\Company Roster.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 6\Company Roster\bin\Debug\Company Roster.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 6\Company Roster\bin\Debug\Company Roster.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 6\Company Roster\obj\Debug\Company Roster.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 6\Company Roster\obj\Debug\Company Roster.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 6\Company Roster\obj\Debug\Company Roster.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 6\Company Roster\obj\Debug\Company Roster.pdb

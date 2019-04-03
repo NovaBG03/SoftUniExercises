@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\ExercisesEncapsulation\ProblemBox\bin\Debug\ProblemBox.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\ExercisesEncapsulation\ProblemBox\bin\Debug\ProblemBox.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\ExercisesEncapsulation\ProblemBox\bin\Debug\ProblemBox.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\ExercisesEncapsulation\ProblemBox\obj\Debug\ProblemBox.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\ExercisesEncapsulation\ProblemBox\obj\Debug\ProblemBox.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\ExercisesEncapsulation\ProblemBox\obj\Debug\ProblemBox.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\02. CSharp-OOP-Basics-Working-with-Abstraction-Exercises-Resources\ExercisesEncapsulation\ProblemBox\obj\Debug\ProblemBox.pdb

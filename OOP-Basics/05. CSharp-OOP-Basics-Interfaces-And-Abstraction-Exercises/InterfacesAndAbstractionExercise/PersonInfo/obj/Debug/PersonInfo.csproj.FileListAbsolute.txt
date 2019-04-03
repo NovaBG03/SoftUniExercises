@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\PersonInfo\bin\Debug\PersonInfo.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\PersonInfo\bin\Debug\PersonInfo.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\PersonInfo\bin\Debug\PersonInfo.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\PersonInfo\obj\Debug\PersonInfo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\PersonInfo\obj\Debug\PersonInfo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\PersonInfo\obj\Debug\PersonInfo.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\PersonInfo\obj\Debug\PersonInfo.pdb

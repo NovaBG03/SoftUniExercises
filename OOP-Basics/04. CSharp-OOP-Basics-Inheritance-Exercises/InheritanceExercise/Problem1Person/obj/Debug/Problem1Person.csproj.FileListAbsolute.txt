@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\Problem1Person\bin\Debug\Problem1Person.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\Problem1Person\bin\Debug\Problem1Person.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\Problem1Person\bin\Debug\Problem1Person.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\Problem1Person\obj\Debug\Problem1Person.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\Problem1Person\obj\Debug\Problem1Person.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\Problem1Person\obj\Debug\Problem1Person.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\Problem1Person\obj\Debug\Problem1Person.pdb

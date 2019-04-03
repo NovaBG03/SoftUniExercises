@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 4\Opinion Poll\bin\Debug\Opinion Poll.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 4\Opinion Poll\bin\Debug\Opinion Poll.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 4\Opinion Poll\bin\Debug\Opinion Poll.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 4\Opinion Poll\obj\Debug\Opinion Poll.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 4\Opinion Poll\obj\Debug\Opinion Poll.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 4\Opinion Poll\obj\Debug\Opinion Poll.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 4\Opinion Poll\obj\Debug\Opinion Poll.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\OOP-Basics\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 4\Opinion Poll\bin\Debug\Opinion Poll.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\OOP-Basics\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 4\Opinion Poll\bin\Debug\Opinion Poll.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\OOP-Basics\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 4\Opinion Poll\bin\Debug\Opinion Poll.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\OOP-Basics\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 4\Opinion Poll\obj\Debug\Opinion Poll.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\OOP-Basics\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 4\Opinion Poll\obj\Debug\Opinion Poll.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\OOP-Basics\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 4\Opinion Poll\obj\Debug\Opinion Poll.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\OOP-Basics\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 4\Opinion Poll\obj\Debug\Opinion Poll.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\ExplicitInterfaces\bin\Debug\ExplicitInterfaces.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\ExplicitInterfaces\bin\Debug\ExplicitInterfaces.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\ExplicitInterfaces\bin\Debug\ExplicitInterfaces.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\ExplicitInterfaces\obj\Debug\ExplicitInterfaces.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\ExplicitInterfaces\obj\Debug\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\ExplicitInterfaces\obj\Debug\ExplicitInterfaces.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\ExplicitInterfaces\obj\Debug\ExplicitInterfaces.pdb

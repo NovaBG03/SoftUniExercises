@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\07. CSharp-OOP-Basics-Polymorphism-Exercises\PolymorphismExercises\Vehicles\obj\Debug\Vehicles.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\07. CSharp-OOP-Basics-Polymorphism-Exercises\PolymorphismExercises\Vehicles\obj\Debug\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\07. CSharp-OOP-Basics-Polymorphism-Exercises\PolymorphismExercises\Vehicles\bin\Debug\Vehicles.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\07. CSharp-OOP-Basics-Polymorphism-Exercises\PolymorphismExercises\Vehicles\bin\Debug\Vehicles.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\07. CSharp-OOP-Basics-Polymorphism-Exercises\PolymorphismExercises\Vehicles\bin\Debug\Vehicles.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\07. CSharp-OOP-Basics-Polymorphism-Exercises\PolymorphismExercises\Vehicles\obj\Debug\Vehicles.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\07. CSharp-OOP-Basics-Polymorphism-Exercises\PolymorphismExercises\Vehicles\obj\Debug\Vehicles.pdb

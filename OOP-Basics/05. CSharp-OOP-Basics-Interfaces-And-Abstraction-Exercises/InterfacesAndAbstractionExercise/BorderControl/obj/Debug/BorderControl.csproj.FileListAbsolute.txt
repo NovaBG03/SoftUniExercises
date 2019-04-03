@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\BorderControl\bin\Debug\BorderControl.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\BorderControl\bin\Debug\BorderControl.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\BorderControl\bin\Debug\BorderControl.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\BorderControl\obj\Debug\BorderControl.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\BorderControl\obj\Debug\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\BorderControl\obj\Debug\BorderControl.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\BorderControl\obj\Debug\BorderControl.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\FerrariProblem\bin\Debug\FerrariProblem.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\FerrariProblem\bin\Debug\FerrariProblem.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\FerrariProblem\bin\Debug\FerrariProblem.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\FerrariProblem\obj\Debug\FerrariProblem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\FerrariProblem\obj\Debug\FerrariProblem.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\05. CSharp-OOP-Basics-Interfaces-And-Abstraction-Exercises\InterfacesAndAbstractionExercise\FerrariProblem\obj\Debug\FerrariProblem.pdb

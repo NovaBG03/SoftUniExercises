@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sneaking", "Sneaking\Sneaking.csproj", "{E42490B5-B852-4E77-A52F-C16EC3180B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E42490B5-B852-4E77-A52F-C16EC3180B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42490B5-B852-4E77-A52F-C16EC3180B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42490B5-B852-4E77-A52F-C16EC3180B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42490B5-B852-4E77-A52F-C16EC3180B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21FC11B7-D34B-4C4E-893D-B3605B0EFA96}
+	EndGlobalSection
+EndGlobal

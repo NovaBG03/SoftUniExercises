@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\Mankind\bin\Debug\Mankind.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\Mankind\bin\Debug\Mankind.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\Mankind\bin\Debug\Mankind.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\Mankind\obj\Debug\Mankind.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\Mankind\obj\Debug\Mankind.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\Mankind\obj\Debug\Mankind.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\Mankind\obj\Debug\Mankind.pdb

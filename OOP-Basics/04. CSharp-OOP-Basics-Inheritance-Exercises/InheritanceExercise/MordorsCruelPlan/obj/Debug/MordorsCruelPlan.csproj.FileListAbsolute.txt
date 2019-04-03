@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\MordorsCruelPlan\bin\Debug\MordorsCruelPlan.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\MordorsCruelPlan\bin\Debug\MordorsCruelPlan.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\MordorsCruelPlan\bin\Debug\MordorsCruelPlan.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\MordorsCruelPlan\obj\Debug\MordorsCruelPlan.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\MordorsCruelPlan\obj\Debug\MordorsCruelPlan.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\MordorsCruelPlan\obj\Debug\MordorsCruelPlan.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\04. CSharp-OOP-Basics-Inheritance-Exercises\InheritanceExercise\MordorsCruelPlan\obj\Debug\MordorsCruelPlan.pdb

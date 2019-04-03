@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 1 and Problem 2\DefiningClasses\obj\Debug\DefiningClasses.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 1 and Problem 2\DefiningClasses\obj\Debug\DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 1 and Problem 2\DefiningClasses\bin\Debug\DefiningClasses.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 1 and Problem 2\DefiningClasses\bin\Debug\DefiningClasses.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 1 and Problem 2\DefiningClasses\bin\Debug\DefiningClasses.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 1 and Problem 2\DefiningClasses\obj\Debug\DefiningClasses.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\01. CSharp-OOP-Basics-Defining-Classes-Exercises\Problem 1 and Problem 2\DefiningClasses\obj\Debug\DefiningClasses.pdb

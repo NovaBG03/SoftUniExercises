@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.exe.config
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\ShoppingSpree\bin\Debug\ShoppingSpree.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\ShoppingSpree\obj\Debug\ShoppingSpree.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\ShoppingSpree\obj\Debug\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\ShoppingSpree\obj\Debug\ShoppingSpree.exe
+C:\Users\Administrator\Desktop\Codes\SoftUni\03. CSharp-OOP-Basics-Encapsulation-Exercises\ExercisesEncapsulation\ShoppingSpree\obj\Debug\ShoppingSpree.pdb

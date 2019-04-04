@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\ReverseNumbersStack\bin\Debug\netcoreapp3.0\ReverseNumbersStack.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\ReverseNumbersStack\bin\Debug\netcoreapp3.0\ReverseNumbersStack.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\ReverseNumbersStack\bin\Debug\netcoreapp3.0\ReverseNumbersStack.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\ReverseNumbersStack\bin\Debug\netcoreapp3.0\ReverseNumbersStack.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\ReverseNumbersStack\bin\Debug\netcoreapp3.0\ReverseNumbersStack.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\ReverseNumbersStack\bin\Debug\netcoreapp3.0\ReverseNumbersStack.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\ReverseNumbersStack\obj\Debug\netcoreapp3.0\ReverseNumbersStack.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\ReverseNumbersStack\obj\Debug\netcoreapp3.0\ReverseNumbersStack.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\ReverseNumbersStack\obj\Debug\netcoreapp3.0\ReverseNumbersStack.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\ReverseNumbersStack\obj\Debug\netcoreapp3.0\ReverseNumbersStack.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\ReverseNumbersStack\obj\Debug\netcoreapp3.0\ReverseNumbersStack.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\ReverseNumbersStack\obj\Debug\netcoreapp3.0\ReverseNumbersStack.pdb

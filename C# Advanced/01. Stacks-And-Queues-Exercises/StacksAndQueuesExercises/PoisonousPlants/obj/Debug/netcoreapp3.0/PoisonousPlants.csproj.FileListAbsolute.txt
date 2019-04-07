@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\PoisonousPlants\bin\Debug\netcoreapp3.0\PoisonousPlants.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\PoisonousPlants\bin\Debug\netcoreapp3.0\PoisonousPlants.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\PoisonousPlants\bin\Debug\netcoreapp3.0\PoisonousPlants.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\PoisonousPlants\bin\Debug\netcoreapp3.0\PoisonousPlants.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\PoisonousPlants\bin\Debug\netcoreapp3.0\PoisonousPlants.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\PoisonousPlants\bin\Debug\netcoreapp3.0\PoisonousPlants.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\PoisonousPlants\obj\Debug\netcoreapp3.0\PoisonousPlants.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\PoisonousPlants\obj\Debug\netcoreapp3.0\PoisonousPlants.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\PoisonousPlants\obj\Debug\netcoreapp3.0\PoisonousPlants.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\PoisonousPlants\obj\Debug\netcoreapp3.0\PoisonousPlants.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\PoisonousPlants\obj\Debug\netcoreapp3.0\PoisonousPlants.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\PoisonousPlants\obj\Debug\netcoreapp3.0\PoisonousPlants.pdb

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\Parentheses\bin\Debug\netcoreapp3.0\Parentheses.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\Parentheses\bin\Debug\netcoreapp3.0\Parentheses.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\Parentheses\bin\Debug\netcoreapp3.0\Parentheses.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\Parentheses\bin\Debug\netcoreapp3.0\Parentheses.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\Parentheses\bin\Debug\netcoreapp3.0\Parentheses.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\Parentheses\bin\Debug\netcoreapp3.0\Parentheses.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\Parentheses\obj\Debug\netcoreapp3.0\Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\Parentheses\obj\Debug\netcoreapp3.0\Parentheses.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\Parentheses\obj\Debug\netcoreapp3.0\Parentheses.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\Parentheses\obj\Debug\netcoreapp3.0\Parentheses.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\Parentheses\obj\Debug\netcoreapp3.0\Parentheses.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\Parentheses\obj\Debug\netcoreapp3.0\Parentheses.csprojAssemblyReference.cache

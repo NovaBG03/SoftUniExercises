@@ -3,15 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseNumbersStack", "ReverseNumbersStack\ReverseNumbersStack.csproj", "{C74BD9C9-84FA-47DA-8B9B-49777038EC7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseNumbersStack", "ReverseNumbersStack\ReverseNumbersStack.csproj", "{C74BD9C9-84FA-47DA-8B9B-49777038EC7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOperations", "StackOperations\StackOperations.csproj", "{44ECE110-4F0F-4A57-88C7-D5CA3DBBDE8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackOperations", "StackOperations\StackOperations.csproj", "{44ECE110-4F0F-4A57-88C7-D5CA3DBBDE8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumElement", "MaximumElement\MaximumElement.csproj", "{B0F7B2AD-D66C-4C1C-9D36-A03F9C268587}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumElement", "MaximumElement\MaximumElement.csproj", "{B0F7B2AD-D66C-4C1C-9D36-A03F9C268587}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueOperations", "QueueOperations\QueueOperations.csproj", "{756EE4FD-32B7-49B0-B05A-E8BCC23D2CBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueOperations", "QueueOperations\QueueOperations.csproj", "{756EE4FD-32B7-49B0-B05A-E8BCC23D2CBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueSequence", "QueueSequence\QueueSequence.csproj", "{0D6ED5A0-B5A0-4112-9106-9916EC0712E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueueSequence", "QueueSequence\QueueSequence.csproj", "{0D6ED5A0-B5A0-4112-9106-9916EC0712E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruckTour", "TruckTour\TruckTour.csproj", "{1C6B2DF0-7B20-4230-9C5A-13DFDB032739}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parentheses", "Parentheses\Parentheses.csproj", "{4925F2AC-C03E-4195-90C4-17F4616CE576}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackFibonacci", "StackFibonacci\StackFibonacci.csproj", "{31ABDE3E-ED42-494B-AE98-200935A9B5C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleTextEditor", "SimplTextEditor\SimpleTextEditor.csproj", "{7C8D8DD9-E362-4048-AEC9-B29AFF276AB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoisonousPlants", "PoisonousPlants\PoisonousPlants.csproj", "{EF929795-3745-4BDA-A96D-8380CB638CA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +49,26 @@ Global
 		{0D6ED5A0-B5A0-4112-9106-9916EC0712E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D6ED5A0-B5A0-4112-9106-9916EC0712E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D6ED5A0-B5A0-4112-9106-9916EC0712E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6B2DF0-7B20-4230-9C5A-13DFDB032739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6B2DF0-7B20-4230-9C5A-13DFDB032739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6B2DF0-7B20-4230-9C5A-13DFDB032739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6B2DF0-7B20-4230-9C5A-13DFDB032739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4925F2AC-C03E-4195-90C4-17F4616CE576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4925F2AC-C03E-4195-90C4-17F4616CE576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4925F2AC-C03E-4195-90C4-17F4616CE576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4925F2AC-C03E-4195-90C4-17F4616CE576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31ABDE3E-ED42-494B-AE98-200935A9B5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31ABDE3E-ED42-494B-AE98-200935A9B5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31ABDE3E-ED42-494B-AE98-200935A9B5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31ABDE3E-ED42-494B-AE98-200935A9B5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C8D8DD9-E362-4048-AEC9-B29AFF276AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8D8DD9-E362-4048-AEC9-B29AFF276AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8D8DD9-E362-4048-AEC9-B29AFF276AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8D8DD9-E362-4048-AEC9-B29AFF276AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF929795-3745-4BDA-A96D-8380CB638CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF929795-3745-4BDA-A96D-8380CB638CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF929795-3745-4BDA-A96D-8380CB638CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF929795-3745-4BDA-A96D-8380CB638CA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

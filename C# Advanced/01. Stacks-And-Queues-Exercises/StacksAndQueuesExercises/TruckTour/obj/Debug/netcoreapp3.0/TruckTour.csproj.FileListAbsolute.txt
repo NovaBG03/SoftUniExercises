@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\TruckTour\bin\Debug\netcoreapp3.0\TruckTour.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\TruckTour\obj\Debug\netcoreapp3.0\TruckTour.pdb

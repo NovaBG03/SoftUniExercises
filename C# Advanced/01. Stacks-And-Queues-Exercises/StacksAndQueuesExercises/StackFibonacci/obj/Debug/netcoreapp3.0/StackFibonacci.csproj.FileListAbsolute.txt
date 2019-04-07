@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\StackFibonacci\bin\Debug\netcoreapp3.0\StackFibonacci.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\StackFibonacci\bin\Debug\netcoreapp3.0\StackFibonacci.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\StackFibonacci\bin\Debug\netcoreapp3.0\StackFibonacci.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\StackFibonacci\bin\Debug\netcoreapp3.0\StackFibonacci.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\StackFibonacci\bin\Debug\netcoreapp3.0\StackFibonacci.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\StackFibonacci\bin\Debug\netcoreapp3.0\StackFibonacci.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\StackFibonacci\obj\Debug\netcoreapp3.0\StackFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\StackFibonacci\obj\Debug\netcoreapp3.0\StackFibonacci.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\StackFibonacci\obj\Debug\netcoreapp3.0\StackFibonacci.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\StackFibonacci\obj\Debug\netcoreapp3.0\StackFibonacci.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\StackFibonacci\obj\Debug\netcoreapp3.0\StackFibonacci.pdb

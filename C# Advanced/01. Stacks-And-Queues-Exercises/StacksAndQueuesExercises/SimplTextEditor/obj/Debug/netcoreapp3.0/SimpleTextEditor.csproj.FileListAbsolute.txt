@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\SimplTextEditor\bin\Debug\netcoreapp3.0\SimpleTextEditor.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\SimplTextEditor\bin\Debug\netcoreapp3.0\SimpleTextEditor.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\SimplTextEditor\bin\Debug\netcoreapp3.0\SimpleTextEditor.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\SimplTextEditor\bin\Debug\netcoreapp3.0\SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\SimplTextEditor\bin\Debug\netcoreapp3.0\SimpleTextEditor.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\SimplTextEditor\bin\Debug\netcoreapp3.0\SimpleTextEditor.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\SimplTextEditor\obj\Debug\netcoreapp3.0\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\SimplTextEditor\obj\Debug\netcoreapp3.0\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\SimplTextEditor\obj\Debug\netcoreapp3.0\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\SimplTextEditor\obj\Debug\netcoreapp3.0\SimpleTextEditor.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\01. Stacks-And-Queues-Exercises\StacksAndQueuesExercises\SimplTextEditor\obj\Debug\netcoreapp3.0\SimpleTextEditor.pdb

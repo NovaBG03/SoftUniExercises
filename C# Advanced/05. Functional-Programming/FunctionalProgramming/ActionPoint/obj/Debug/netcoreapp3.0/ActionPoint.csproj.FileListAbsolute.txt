@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp3.0\ActionPoint.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp3.0\ActionPoint.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp3.0\ActionPoint.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp3.0\ActionPoint.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp3.0\ActionPoint.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ActionPoint\bin\Debug\netcoreapp3.0\ActionPoint.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp3.0\ActionPoint.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp3.0\ActionPoint.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp3.0\ActionPoint.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp3.0\ActionPoint.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp3.0\ActionPoint.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ActionPoint\obj\Debug\netcoreapp3.0\ActionPoint.pdb

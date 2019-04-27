@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\OddLines\bin\Debug\netcoreapp3.0\OddLines.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\OddLines\bin\Debug\netcoreapp3.0\OddLines.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\OddLines\bin\Debug\netcoreapp3.0\OddLines.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\OddLines\bin\Debug\netcoreapp3.0\OddLines.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\OddLines\bin\Debug\netcoreapp3.0\OddLines.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\OddLines\bin\Debug\netcoreapp3.0\OddLines.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\OddLines\obj\Debug\netcoreapp3.0\OddLines.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\OddLines\obj\Debug\netcoreapp3.0\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\OddLines\obj\Debug\netcoreapp3.0\OddLines.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\OddLines\obj\Debug\netcoreapp3.0\OddLines.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\OddLines\obj\Debug\netcoreapp3.0\OddLines.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\OddLines\obj\Debug\netcoreapp3.0\OddLines.pdb

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\TargetPractice\bin\Debug\netcoreapp3.0\TargetPractice.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\TargetPractice\bin\Debug\netcoreapp3.0\TargetPractice.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\TargetPractice\bin\Debug\netcoreapp3.0\TargetPractice.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\TargetPractice\bin\Debug\netcoreapp3.0\TargetPractice.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\TargetPractice\bin\Debug\netcoreapp3.0\TargetPractice.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\TargetPractice\bin\Debug\netcoreapp3.0\TargetPractice.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\TargetPractice\obj\Debug\netcoreapp3.0\TargetPractice.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\TargetPractice\obj\Debug\netcoreapp3.0\TargetPractice.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\TargetPractice\obj\Debug\netcoreapp3.0\TargetPractice.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\TargetPractice\obj\Debug\netcoreapp3.0\TargetPractice.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\TargetPractice\obj\Debug\netcoreapp3.0\TargetPractice.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\TargetPractice\obj\Debug\netcoreapp3.0\TargetPractice.pdb

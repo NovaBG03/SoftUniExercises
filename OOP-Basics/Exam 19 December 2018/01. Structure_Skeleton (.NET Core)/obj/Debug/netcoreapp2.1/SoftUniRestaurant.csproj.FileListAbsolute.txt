@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Basics\Exam 19 December 2018\01. Structure_Skeleton (.NET Core)\bin\Debug\netcoreapp2.1\SoftUniRestaurant.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Basics\Exam 19 December 2018\01. Structure_Skeleton (.NET Core)\bin\Debug\netcoreapp2.1\SoftUniRestaurant.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Basics\Exam 19 December 2018\01. Structure_Skeleton (.NET Core)\bin\Debug\netcoreapp2.1\SoftUniRestaurant.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Basics\Exam 19 December 2018\01. Structure_Skeleton (.NET Core)\bin\Debug\netcoreapp2.1\SoftUniRestaurant.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Basics\Exam 19 December 2018\01. Structure_Skeleton (.NET Core)\bin\Debug\netcoreapp2.1\SoftUniRestaurant.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Basics\Exam 19 December 2018\01. Structure_Skeleton (.NET Core)\obj\Debug\netcoreapp2.1\SoftUniRestaurant.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Basics\Exam 19 December 2018\01. Structure_Skeleton (.NET Core)\obj\Debug\netcoreapp2.1\SoftUniRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Basics\Exam 19 December 2018\01. Structure_Skeleton (.NET Core)\obj\Debug\netcoreapp2.1\SoftUniRestaurant.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Basics\Exam 19 December 2018\01. Structure_Skeleton (.NET Core)\obj\Debug\netcoreapp2.1\SoftUniRestaurant.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Basics\Exam 19 December 2018\01. Structure_Skeleton (.NET Core)\obj\Debug\netcoreapp2.1\SoftUniRestaurant.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Basics\Exam 19 December 2018\01. Structure_Skeleton (.NET Core)\obj\Debug\netcoreapp2.1\SoftUniRestaurant.pdb

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\Crossfire\bin\Debug\netcoreapp3.0\Crossfire.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\Crossfire\bin\Debug\netcoreapp3.0\Crossfire.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\Crossfire\bin\Debug\netcoreapp3.0\Crossfire.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\Crossfire\bin\Debug\netcoreapp3.0\Crossfire.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\Crossfire\bin\Debug\netcoreapp3.0\Crossfire.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\Crossfire\bin\Debug\netcoreapp3.0\Crossfire.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\Crossfire\obj\Debug\netcoreapp3.0\Crossfire.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\Crossfire\obj\Debug\netcoreapp3.0\Crossfire.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\Crossfire\obj\Debug\netcoreapp3.0\Crossfire.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\Crossfire\obj\Debug\netcoreapp3.0\Crossfire.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\Crossfire\obj\Debug\netcoreapp3.0\Crossfire.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\Crossfire\obj\Debug\netcoreapp3.0\Crossfire.pdb

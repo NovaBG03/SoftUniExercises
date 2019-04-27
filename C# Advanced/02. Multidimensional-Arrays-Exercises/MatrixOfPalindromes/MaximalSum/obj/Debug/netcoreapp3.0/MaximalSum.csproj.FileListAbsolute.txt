@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MaximalSum\bin\Debug\netcoreapp3.0\MaximalSum.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MaximalSum\bin\Debug\netcoreapp3.0\MaximalSum.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MaximalSum\bin\Debug\netcoreapp3.0\MaximalSum.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MaximalSum\bin\Debug\netcoreapp3.0\MaximalSum.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MaximalSum\bin\Debug\netcoreapp3.0\MaximalSum.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MaximalSum\bin\Debug\netcoreapp3.0\MaximalSum.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MaximalSum\obj\Debug\netcoreapp3.0\MaximalSum.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MaximalSum\obj\Debug\netcoreapp3.0\MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MaximalSum\obj\Debug\netcoreapp3.0\MaximalSum.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MaximalSum\obj\Debug\netcoreapp3.0\MaximalSum.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MaximalSum\obj\Debug\netcoreapp3.0\MaximalSum.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MaximalSum\obj\Debug\netcoreapp3.0\MaximalSum.pdb

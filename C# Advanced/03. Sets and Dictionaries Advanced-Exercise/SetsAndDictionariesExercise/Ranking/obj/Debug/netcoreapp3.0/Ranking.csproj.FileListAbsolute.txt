@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Ranking\bin\Debug\netcoreapp3.0\Ranking.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Ranking\bin\Debug\netcoreapp3.0\Ranking.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Ranking\bin\Debug\netcoreapp3.0\Ranking.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Ranking\bin\Debug\netcoreapp3.0\Ranking.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Ranking\bin\Debug\netcoreapp3.0\Ranking.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Ranking\bin\Debug\netcoreapp3.0\Ranking.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Ranking\obj\Debug\netcoreapp3.0\Ranking.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Ranking\obj\Debug\netcoreapp3.0\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Ranking\obj\Debug\netcoreapp3.0\Ranking.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Ranking\obj\Debug\netcoreapp3.0\Ranking.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Ranking\obj\Debug\netcoreapp3.0\Ranking.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Ranking\obj\Debug\netcoreapp3.0\Ranking.pdb

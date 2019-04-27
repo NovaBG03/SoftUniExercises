@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\ZippingSlicedFiles\bin\Debug\netcoreapp3.0\ZippingSlicedFiles.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\ZippingSlicedFiles\bin\Debug\netcoreapp3.0\ZippingSlicedFiles.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\ZippingSlicedFiles\bin\Debug\netcoreapp3.0\ZippingSlicedFiles.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\ZippingSlicedFiles\bin\Debug\netcoreapp3.0\ZippingSlicedFiles.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\ZippingSlicedFiles\bin\Debug\netcoreapp3.0\ZippingSlicedFiles.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\ZippingSlicedFiles\bin\Debug\netcoreapp3.0\ZippingSlicedFiles.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\ZippingSlicedFiles\obj\Debug\netcoreapp3.0\ZippingSlicedFiles.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\ZippingSlicedFiles\obj\Debug\netcoreapp3.0\ZippingSlicedFiles.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\ZippingSlicedFiles\obj\Debug\netcoreapp3.0\ZippingSlicedFiles.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\ZippingSlicedFiles\obj\Debug\netcoreapp3.0\ZippingSlicedFiles.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\ZippingSlicedFiles\obj\Debug\netcoreapp3.0\ZippingSlicedFiles.pdb

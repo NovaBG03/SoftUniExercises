@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\RubiksMatrix\bin\Debug\netcoreapp3.0\RubiksMatrix.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\RubiksMatrix\bin\Debug\netcoreapp3.0\RubiksMatrix.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\RubiksMatrix\bin\Debug\netcoreapp3.0\RubiksMatrix.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\RubiksMatrix\bin\Debug\netcoreapp3.0\RubiksMatrix.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\RubiksMatrix\bin\Debug\netcoreapp3.0\RubiksMatrix.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\RubiksMatrix\bin\Debug\netcoreapp3.0\RubiksMatrix.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\RubiksMatrix\obj\Debug\netcoreapp3.0\RubiksMatrix.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\RubiksMatrix\obj\Debug\netcoreapp3.0\RubiksMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\RubiksMatrix\obj\Debug\netcoreapp3.0\RubiksMatrix.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\RubiksMatrix\obj\Debug\netcoreapp3.0\RubiksMatrix.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\RubiksMatrix\obj\Debug\netcoreapp3.0\RubiksMatrix.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\RubiksMatrix\obj\Debug\netcoreapp3.0\RubiksMatrix.pdb

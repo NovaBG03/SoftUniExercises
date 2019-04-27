@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\FullDirectoryTraversal\bin\Debug\netcoreapp3.0\FullDirectoryTraversal.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\FullDirectoryTraversal\bin\Debug\netcoreapp3.0\FullDirectoryTraversal.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\FullDirectoryTraversal\bin\Debug\netcoreapp3.0\FullDirectoryTraversal.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\FullDirectoryTraversal\bin\Debug\netcoreapp3.0\FullDirectoryTraversal.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\FullDirectoryTraversal\bin\Debug\netcoreapp3.0\FullDirectoryTraversal.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\FullDirectoryTraversal\bin\Debug\netcoreapp3.0\FullDirectoryTraversal.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\FullDirectoryTraversal\obj\Debug\netcoreapp3.0\FullDirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\FullDirectoryTraversal\obj\Debug\netcoreapp3.0\FullDirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\FullDirectoryTraversal\obj\Debug\netcoreapp3.0\FullDirectoryTraversal.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\FullDirectoryTraversal\obj\Debug\netcoreapp3.0\FullDirectoryTraversal.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\FullDirectoryTraversal\obj\Debug\netcoreapp3.0\FullDirectoryTraversal.pdb

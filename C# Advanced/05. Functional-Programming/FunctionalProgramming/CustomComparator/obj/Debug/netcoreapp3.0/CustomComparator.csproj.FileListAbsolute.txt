@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.0\CustomComparator.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.0\CustomComparator.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.0\CustomComparator.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.0\CustomComparator.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.0\CustomComparator.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomComparator\bin\Debug\netcoreapp3.0\CustomComparator.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.0\CustomComparator.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.0\CustomComparator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.0\CustomComparator.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.0\CustomComparator.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.0\CustomComparator.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomComparator\obj\Debug\netcoreapp3.0\CustomComparator.pdb

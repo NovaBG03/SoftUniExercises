@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Wardrobe\bin\Debug\netcoreapp3.0\Wardrobe.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\Wardrobe\obj\Debug\netcoreapp3.0\Wardrobe.pdb

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp3.0\ListOfPredicates.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp3.0\ListOfPredicates.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp3.0\ListOfPredicates.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp3.0\ListOfPredicates.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp3.0\ListOfPredicates.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ListOfPredicates\bin\Debug\netcoreapp3.0\ListOfPredicates.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp3.0\ListOfPredicates.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp3.0\ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp3.0\ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp3.0\ListOfPredicates.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp3.0\ListOfPredicates.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\ListOfPredicates\obj\Debug\netcoreapp3.0\ListOfPredicates.pdb

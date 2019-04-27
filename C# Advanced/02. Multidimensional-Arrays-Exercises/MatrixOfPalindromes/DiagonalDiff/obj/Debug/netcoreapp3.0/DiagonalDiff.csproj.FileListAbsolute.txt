@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\DiagonalDiff\bin\Debug\netcoreapp3.0\DiagonalDiff.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\DiagonalDiff\bin\Debug\netcoreapp3.0\DiagonalDiff.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\DiagonalDiff\bin\Debug\netcoreapp3.0\DiagonalDiff.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\DiagonalDiff\bin\Debug\netcoreapp3.0\DiagonalDiff.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\DiagonalDiff\bin\Debug\netcoreapp3.0\DiagonalDiff.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\DiagonalDiff\bin\Debug\netcoreapp3.0\DiagonalDiff.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\DiagonalDiff\obj\Debug\netcoreapp3.0\DiagonalDiff.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\DiagonalDiff\obj\Debug\netcoreapp3.0\DiagonalDiff.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\DiagonalDiff\obj\Debug\netcoreapp3.0\DiagonalDiff.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\DiagonalDiff\obj\Debug\netcoreapp3.0\DiagonalDiff.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\DiagonalDiff\obj\Debug\netcoreapp3.0\DiagonalDiff.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\DiagonalDiff\obj\Debug\netcoreapp3.0\DiagonalDiff.pdb

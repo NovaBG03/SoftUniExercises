@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MatrixOfPalindromes\bin\Debug\netcoreapp3.0\MatrixOfPalindromes.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MatrixOfPalindromes\bin\Debug\netcoreapp3.0\MatrixOfPalindromes.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MatrixOfPalindromes\bin\Debug\netcoreapp3.0\MatrixOfPalindromes.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MatrixOfPalindromes\bin\Debug\netcoreapp3.0\MatrixOfPalindromes.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MatrixOfPalindromes\bin\Debug\netcoreapp3.0\MatrixOfPalindromes.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MatrixOfPalindromes\bin\Debug\netcoreapp3.0\MatrixOfPalindromes.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MatrixOfPalindromes\obj\Debug\netcoreapp3.0\MatrixOfPalindromes.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MatrixOfPalindromes\obj\Debug\netcoreapp3.0\MatrixOfPalindromes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MatrixOfPalindromes\obj\Debug\netcoreapp3.0\MatrixOfPalindromes.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MatrixOfPalindromes\obj\Debug\netcoreapp3.0\MatrixOfPalindromes.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MatrixOfPalindromes\obj\Debug\netcoreapp3.0\MatrixOfPalindromes.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MatrixOfPalindromes\MatrixOfPalindromes\obj\Debug\netcoreapp3.0\MatrixOfPalindromes.pdb

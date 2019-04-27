@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\VampireBunnies\bin\Debug\netcoreapp3.0\VampireBunnies.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\VampireBunnies\bin\Debug\netcoreapp3.0\VampireBunnies.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\VampireBunnies\bin\Debug\netcoreapp3.0\VampireBunnies.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\VampireBunnies\bin\Debug\netcoreapp3.0\VampireBunnies.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\VampireBunnies\bin\Debug\netcoreapp3.0\VampireBunnies.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\VampireBunnies\bin\Debug\netcoreapp3.0\VampireBunnies.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\VampireBunnies\obj\Debug\netcoreapp3.0\VampireBunnies.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\VampireBunnies\obj\Debug\netcoreapp3.0\VampireBunnies.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\VampireBunnies\obj\Debug\netcoreapp3.0\VampireBunnies.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\VampireBunnies\obj\Debug\netcoreapp3.0\VampireBunnies.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\VampireBunnies\obj\Debug\netcoreapp3.0\VampireBunnies.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\VampireBunnies\obj\Debug\netcoreapp3.0\VampireBunnies.pdb

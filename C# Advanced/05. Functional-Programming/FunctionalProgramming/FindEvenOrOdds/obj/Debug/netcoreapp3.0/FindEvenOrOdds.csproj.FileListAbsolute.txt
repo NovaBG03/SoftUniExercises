@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\FindEvenOrOdds\bin\Debug\netcoreapp3.0\FindEvenOrOdds.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\FindEvenOrOdds\bin\Debug\netcoreapp3.0\FindEvenOrOdds.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\FindEvenOrOdds\bin\Debug\netcoreapp3.0\FindEvenOrOdds.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\FindEvenOrOdds\bin\Debug\netcoreapp3.0\FindEvenOrOdds.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\FindEvenOrOdds\bin\Debug\netcoreapp3.0\FindEvenOrOdds.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\FindEvenOrOdds\bin\Debug\netcoreapp3.0\FindEvenOrOdds.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\FindEvenOrOdds\obj\Debug\netcoreapp3.0\FindEvenOrOdds.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\FindEvenOrOdds\obj\Debug\netcoreapp3.0\FindEvenOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\FindEvenOrOdds\obj\Debug\netcoreapp3.0\FindEvenOrOdds.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\FindEvenOrOdds\obj\Debug\netcoreapp3.0\FindEvenOrOdds.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\FindEvenOrOdds\obj\Debug\netcoreapp3.0\FindEvenOrOdds.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\FindEvenOrOdds\obj\Debug\netcoreapp3.0\FindEvenOrOdds.pdb

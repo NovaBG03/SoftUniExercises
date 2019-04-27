@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\HTTPServer\obj\Debug\netcoreapp3.0\HTTPServer.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\HTTPServer\obj\Debug\netcoreapp3.0\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\HTTPServer\obj\Debug\netcoreapp3.0\HTTPServer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\HTTPServer\obj\Debug\netcoreapp3.0\HTTPServer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\HTTPServer\bin\Debug\netcoreapp3.0\HTTPServer.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\HTTPServer\bin\Debug\netcoreapp3.0\HTTPServer.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\HTTPServer\bin\Debug\netcoreapp3.0\HTTPServer.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\HTTPServer\bin\Debug\netcoreapp3.0\HTTPServer.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\HTTPServer\bin\Debug\netcoreapp3.0\HTTPServer.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\HTTPServer\bin\Debug\netcoreapp3.0\HTTPServer.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\HTTPServer\obj\Debug\netcoreapp3.0\HTTPServer.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\HTTPServer\obj\Debug\netcoreapp3.0\HTTPServer.pdb

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\TheHeiganDance\bin\Debug\netcoreapp3.0\TheHeiganDance.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\TheHeiganDance\bin\Debug\netcoreapp3.0\TheHeiganDance.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\TheHeiganDance\bin\Debug\netcoreapp3.0\TheHeiganDance.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\TheHeiganDance\bin\Debug\netcoreapp3.0\TheHeiganDance.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\TheHeiganDance\bin\Debug\netcoreapp3.0\TheHeiganDance.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\TheHeiganDance\bin\Debug\netcoreapp3.0\TheHeiganDance.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\TheHeiganDance\obj\Debug\netcoreapp3.0\TheHeiganDance.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\TheHeiganDance\obj\Debug\netcoreapp3.0\TheHeiganDance.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\TheHeiganDance\obj\Debug\netcoreapp3.0\TheHeiganDance.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\TheHeiganDance\obj\Debug\netcoreapp3.0\TheHeiganDance.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\TheHeiganDance\obj\Debug\netcoreapp3.0\TheHeiganDance.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\02. Multidimensional-Arrays-Exercises\MoreMatrixExercises\TheHeiganDance\obj\Debug\netcoreapp3.0\TheHeiganDance.pdb

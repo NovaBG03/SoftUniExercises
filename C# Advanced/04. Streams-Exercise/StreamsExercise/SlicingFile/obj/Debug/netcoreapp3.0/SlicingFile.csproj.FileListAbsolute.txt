@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\SlicingFile\bin\Debug\netcoreapp3.0\SlicingFile.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\SlicingFile\bin\Debug\netcoreapp3.0\SlicingFile.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\SlicingFile\bin\Debug\netcoreapp3.0\SlicingFile.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\SlicingFile\bin\Debug\netcoreapp3.0\SlicingFile.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\SlicingFile\bin\Debug\netcoreapp3.0\SlicingFile.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\SlicingFile\bin\Debug\netcoreapp3.0\SlicingFile.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\SlicingFile\obj\Debug\netcoreapp3.0\SlicingFile.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\SlicingFile\obj\Debug\netcoreapp3.0\SlicingFile.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\SlicingFile\obj\Debug\netcoreapp3.0\SlicingFile.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\SlicingFile\obj\Debug\netcoreapp3.0\SlicingFile.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\SlicingFile\obj\Debug\netcoreapp3.0\SlicingFile.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\04. Streams-Exercise\StreamsExercise\SlicingFile\obj\Debug\netcoreapp3.0\SlicingFile.pdb

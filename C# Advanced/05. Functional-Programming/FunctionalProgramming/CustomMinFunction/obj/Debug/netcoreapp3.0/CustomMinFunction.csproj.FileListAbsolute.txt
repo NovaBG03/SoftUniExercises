@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp3.0\CustomMinFunction.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp3.0\CustomMinFunction.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp3.0\CustomMinFunction.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp3.0\CustomMinFunction.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp3.0\CustomMinFunction.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomMinFunction\bin\Debug\netcoreapp3.0\CustomMinFunction.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp3.0\CustomMinFunction.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp3.0\CustomMinFunction.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp3.0\CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp3.0\CustomMinFunction.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp3.0\CustomMinFunction.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\CustomMinFunction\obj\Debug\netcoreapp3.0\CustomMinFunction.pdb

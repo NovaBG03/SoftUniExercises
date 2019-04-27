@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\PeriodicTable\bin\Debug\netcoreapp3.0\PeriodicTable.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\PeriodicTable\bin\Debug\netcoreapp3.0\PeriodicTable.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\PeriodicTable\bin\Debug\netcoreapp3.0\PeriodicTable.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\PeriodicTable\bin\Debug\netcoreapp3.0\PeriodicTable.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\PeriodicTable\bin\Debug\netcoreapp3.0\PeriodicTable.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\PeriodicTable\bin\Debug\netcoreapp3.0\PeriodicTable.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\PeriodicTable\obj\Debug\netcoreapp3.0\PeriodicTable.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\PeriodicTable\obj\Debug\netcoreapp3.0\PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\PeriodicTable\obj\Debug\netcoreapp3.0\PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\PeriodicTable\obj\Debug\netcoreapp3.0\PeriodicTable.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\PeriodicTable\obj\Debug\netcoreapp3.0\PeriodicTable.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\PeriodicTable\obj\Debug\netcoreapp3.0\PeriodicTable.pdb

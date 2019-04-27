@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\EvenTimes\bin\Debug\netcoreapp3.0\EvenTimes.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\EvenTimes\bin\Debug\netcoreapp3.0\EvenTimes.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\EvenTimes\bin\Debug\netcoreapp3.0\EvenTimes.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\EvenTimes\bin\Debug\netcoreapp3.0\EvenTimes.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\EvenTimes\bin\Debug\netcoreapp3.0\EvenTimes.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\EvenTimes\bin\Debug\netcoreapp3.0\EvenTimes.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\EvenTimes\obj\Debug\netcoreapp3.0\EvenTimes.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\EvenTimes\obj\Debug\netcoreapp3.0\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\EvenTimes\obj\Debug\netcoreapp3.0\EvenTimes.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\EvenTimes\obj\Debug\netcoreapp3.0\EvenTimes.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\EvenTimes\obj\Debug\netcoreapp3.0\EvenTimes.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\03. Sets and Dictionaries Advanced-Exercise\SetsAndDictionariesExercise\EvenTimes\obj\Debug\netcoreapp3.0\EvenTimes.pdb

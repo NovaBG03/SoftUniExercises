@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp3.0\KnightsOfHonor.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp3.0\KnightsOfHonor.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp3.0\KnightsOfHonor.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp3.0\KnightsOfHonor.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp3.0\KnightsOfHonor.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\KnightsOfHonor\bin\Debug\netcoreapp3.0\KnightsOfHonor.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp3.0\KnightsOfHonor.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp3.0\KnightsOfHonor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp3.0\KnightsOfHonor.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp3.0\KnightsOfHonor.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp3.0\KnightsOfHonor.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\KnightsOfHonor\obj\Debug\netcoreapp3.0\KnightsOfHonor.pdb

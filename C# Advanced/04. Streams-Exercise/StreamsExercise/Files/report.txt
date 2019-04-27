@@ -1,0 +1,33 @@
+===\Files===
+.txt
+--output.txt - 0.145kb
+--report.txt - 0.654kb
+--result.txt - 0.030kb
+--text.txt - 0.124kb
+--TextToSlice.txt - 9.652kb
+--words.txt - 0.018kb
+.html
+--error.html - 0.173kb
+--index.html - 0.266kb
+--info.html - 0.156kb
+.png
+--copyMe.png - 9.355kb
+--newMe.png - 9.355kb
+.mp4
+--sliceMe.mp4 - 7164.754kb
+
+===\Files\NewFiles===
+.mp4
+--Assembled.mp4 - 7164.754kb
+--Part1.mp4 - 1433.600kb
+--Part2.mp4 - 1433.600kb
+--Part3.mp4 - 1433.600kb
+--Part4.mp4 - 1433.600kb
+--Part5.mp4 - 1430.354kb
+.gz
+--Part1.gz - 1447.942kb
+--Part2.gz - 1441.326kb
+--Part3.gz - 1446.849kb
+--Part4.gz - 1446.930kb
+--Part5.gz - 1332.675kb
+

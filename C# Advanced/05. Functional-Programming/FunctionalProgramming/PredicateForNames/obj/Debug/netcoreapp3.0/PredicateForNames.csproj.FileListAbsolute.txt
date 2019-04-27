@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp3.0\PredicateForNames.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp3.0\PredicateForNames.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp3.0\PredicateForNames.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp3.0\PredicateForNames.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp3.0\PredicateForNames.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\PredicateForNames\bin\Debug\netcoreapp3.0\PredicateForNames.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp3.0\PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp3.0\PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp3.0\PredicateForNames.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp3.0\PredicateForNames.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\05. Functional-Programming\FunctionalProgramming\PredicateForNames\obj\Debug\netcoreapp3.0\PredicateForNames.pdb

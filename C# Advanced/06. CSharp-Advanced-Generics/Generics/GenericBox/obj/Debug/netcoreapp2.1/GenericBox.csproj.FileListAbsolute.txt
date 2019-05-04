@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\GenericBox\bin\Debug\netcoreapp2.1\GenericBox.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\GenericBox\obj\Debug\netcoreapp2.1\GenericBox.pdb

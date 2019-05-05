@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\ThreeupleProject\obj\Debug\netcoreapp2.1\ThreeupleProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\ThreeupleProject\obj\Debug\netcoreapp2.1\ThreeupleProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\ThreeupleProject\obj\Debug\netcoreapp2.1\ThreeupleProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\ThreeupleProject\bin\Debug\netcoreapp2.1\ThreeupleProject.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\ThreeupleProject\bin\Debug\netcoreapp2.1\ThreeupleProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\ThreeupleProject\bin\Debug\netcoreapp2.1\ThreeupleProject.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\ThreeupleProject\bin\Debug\netcoreapp2.1\ThreeupleProject.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\ThreeupleProject\bin\Debug\netcoreapp2.1\ThreeupleProject.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\ThreeupleProject\obj\Debug\netcoreapp2.1\ThreeupleProject.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\ThreeupleProject\obj\Debug\netcoreapp2.1\ThreeupleProject.pdb

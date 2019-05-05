@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTuple project\bin\Debug\netcoreapp2.1\CustomTupleProject.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTuple project\bin\Debug\netcoreapp2.1\CustomTupleProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTuple project\bin\Debug\netcoreapp2.1\CustomTupleProject.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTuple project\bin\Debug\netcoreapp2.1\CustomTupleProject.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTuple project\bin\Debug\netcoreapp2.1\CustomTupleProject.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTuple project\obj\Debug\netcoreapp2.1\CustomTupleProject.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTuple project\obj\Debug\netcoreapp2.1\CustomTupleProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTuple project\obj\Debug\netcoreapp2.1\CustomTupleProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTuple project\obj\Debug\netcoreapp2.1\CustomTupleProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTuple project\obj\Debug\netcoreapp2.1\CustomTupleProject.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTuple project\obj\Debug\netcoreapp2.1\CustomTupleProject.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTupleProject\bin\Debug\netcoreapp2.1\CustomTupleProject.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTupleProject\bin\Debug\netcoreapp2.1\CustomTupleProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTupleProject\bin\Debug\netcoreapp2.1\CustomTupleProject.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTupleProject\bin\Debug\netcoreapp2.1\CustomTupleProject.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTupleProject\bin\Debug\netcoreapp2.1\CustomTupleProject.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTupleProject\obj\Debug\netcoreapp2.1\CustomTupleProject.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTupleProject\obj\Debug\netcoreapp2.1\CustomTupleProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTupleProject\obj\Debug\netcoreapp2.1\CustomTupleProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTupleProject\obj\Debug\netcoreapp2.1\CustomTupleProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTupleProject\obj\Debug\netcoreapp2.1\CustomTupleProject.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\06. CSharp-Advanced-Generics\Generics\CustomTupleProject\obj\Debug\netcoreapp2.1\CustomTupleProject.pdb

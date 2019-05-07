@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\StackProblem\obj\Debug\netcoreapp2.1\StackProblem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\StackProblem\obj\Debug\netcoreapp2.1\StackProblem.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\StackProblem\obj\Debug\netcoreapp2.1\StackProblem.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\StackProblem\bin\Debug\netcoreapp2.1\StackProblem.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\StackProblem\bin\Debug\netcoreapp2.1\StackProblem.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\StackProblem\bin\Debug\netcoreapp2.1\StackProblem.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\StackProblem\bin\Debug\netcoreapp2.1\StackProblem.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\StackProblem\bin\Debug\netcoreapp2.1\StackProblem.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\StackProblem\obj\Debug\netcoreapp2.1\StackProblem.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\StackProblem\obj\Debug\netcoreapp2.1\StackProblem.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\StackProblem\obj\Debug\netcoreapp2.1\StackProblem.csprojAssemblyReference.cache

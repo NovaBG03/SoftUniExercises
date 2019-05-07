@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\ListyIterator\bin\Debug\netcoreapp2.1\ListyIterator.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\ListyIterator\obj\Debug\netcoreapp2.1\ListyIterator.pdb

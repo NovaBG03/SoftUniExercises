@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.pdb

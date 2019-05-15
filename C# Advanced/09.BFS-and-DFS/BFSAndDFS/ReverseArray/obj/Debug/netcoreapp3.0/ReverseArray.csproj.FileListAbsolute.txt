@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ReverseArray\obj\Debug\netcoreapp3.0\ReverseArray.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ReverseArray\obj\Debug\netcoreapp3.0\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ReverseArray\obj\Debug\netcoreapp3.0\ReverseArray.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ReverseArray\obj\Debug\netcoreapp3.0\ReverseArray.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ReverseArray\bin\Debug\netcoreapp3.0\ReverseArray.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ReverseArray\bin\Debug\netcoreapp3.0\ReverseArray.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ReverseArray\bin\Debug\netcoreapp3.0\ReverseArray.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ReverseArray\bin\Debug\netcoreapp3.0\ReverseArray.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ReverseArray\bin\Debug\netcoreapp3.0\ReverseArray.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ReverseArray\bin\Debug\netcoreapp3.0\ReverseArray.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ReverseArray\obj\Debug\netcoreapp3.0\ReverseArray.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ReverseArray\obj\Debug\netcoreapp3.0\ReverseArray.pdb

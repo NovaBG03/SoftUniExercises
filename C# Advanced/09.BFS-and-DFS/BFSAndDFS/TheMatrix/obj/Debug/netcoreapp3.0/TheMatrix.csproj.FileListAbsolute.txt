@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\TheMatrix\bin\Debug\netcoreapp3.0\TheMatrix.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\TheMatrix\bin\Debug\netcoreapp3.0\TheMatrix.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\TheMatrix\bin\Debug\netcoreapp3.0\TheMatrix.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\TheMatrix\bin\Debug\netcoreapp3.0\TheMatrix.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\TheMatrix\bin\Debug\netcoreapp3.0\TheMatrix.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\TheMatrix\bin\Debug\netcoreapp3.0\TheMatrix.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\TheMatrix\obj\Debug\netcoreapp3.0\TheMatrix.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\TheMatrix\obj\Debug\netcoreapp3.0\TheMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\TheMatrix\obj\Debug\netcoreapp3.0\TheMatrix.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\TheMatrix\obj\Debug\netcoreapp3.0\TheMatrix.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\TheMatrix\obj\Debug\netcoreapp3.0\TheMatrix.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\TheMatrix\obj\Debug\netcoreapp3.0\TheMatrix.pdb

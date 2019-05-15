@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ConnectedAreasInMatrix\bin\Debug\netcoreapp3.0\ConnectedAreasInMatrix.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ConnectedAreasInMatrix\bin\Debug\netcoreapp3.0\ConnectedAreasInMatrix.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ConnectedAreasInMatrix\bin\Debug\netcoreapp3.0\ConnectedAreasInMatrix.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ConnectedAreasInMatrix\bin\Debug\netcoreapp3.0\ConnectedAreasInMatrix.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ConnectedAreasInMatrix\bin\Debug\netcoreapp3.0\ConnectedAreasInMatrix.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ConnectedAreasInMatrix\bin\Debug\netcoreapp3.0\ConnectedAreasInMatrix.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ConnectedAreasInMatrix\obj\Debug\netcoreapp3.0\ConnectedAreasInMatrix.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ConnectedAreasInMatrix\obj\Debug\netcoreapp3.0\ConnectedAreasInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ConnectedAreasInMatrix\obj\Debug\netcoreapp3.0\ConnectedAreasInMatrix.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ConnectedAreasInMatrix\obj\Debug\netcoreapp3.0\ConnectedAreasInMatrix.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ConnectedAreasInMatrix\obj\Debug\netcoreapp3.0\ConnectedAreasInMatrix.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\09.BFS-and-DFS\BFSAndDFS\ConnectedAreasInMatrix\obj\Debug\netcoreapp3.0\ConnectedAreasInMatrix.pdb

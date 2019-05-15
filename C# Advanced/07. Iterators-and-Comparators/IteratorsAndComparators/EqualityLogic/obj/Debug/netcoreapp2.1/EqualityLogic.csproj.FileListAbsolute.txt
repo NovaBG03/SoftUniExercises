@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\EqualityLogic\bin\Debug\netcoreapp2.1\EqualityLogic.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\07. Iterators-and-Comparators\IteratorsAndComparators\EqualityLogic\obj\Debug\netcoreapp2.1\EqualityLogic.pdb

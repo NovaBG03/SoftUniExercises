@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\Exam - 24 February 2019\Exam-24.02.2019\ClubParty\bin\Debug\netcoreapp3.0\ClubParty.exe
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\Exam - 24 February 2019\Exam-24.02.2019\ClubParty\bin\Debug\netcoreapp3.0\ClubParty.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\Exam - 24 February 2019\Exam-24.02.2019\ClubParty\bin\Debug\netcoreapp3.0\ClubParty.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\Exam - 24 February 2019\Exam-24.02.2019\ClubParty\bin\Debug\netcoreapp3.0\ClubParty.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\Exam - 24 February 2019\Exam-24.02.2019\ClubParty\bin\Debug\netcoreapp3.0\ClubParty.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\Exam - 24 February 2019\Exam-24.02.2019\ClubParty\bin\Debug\netcoreapp3.0\ClubParty.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\Exam - 24 February 2019\Exam-24.02.2019\ClubParty\obj\Debug\netcoreapp3.0\ClubParty.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\Exam - 24 February 2019\Exam-24.02.2019\ClubParty\obj\Debug\netcoreapp3.0\ClubParty.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\Exam - 24 February 2019\Exam-24.02.2019\ClubParty\obj\Debug\netcoreapp3.0\ClubParty.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\Exam - 24 February 2019\Exam-24.02.2019\ClubParty\obj\Debug\netcoreapp3.0\ClubParty.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\C# Advanced\Exam - 24 February 2019\Exam-24.02.2019\ClubParty\obj\Debug\netcoreapp3.0\ClubParty.pdb

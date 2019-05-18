@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\01. CSharp-OOP-SOLID-Exercise\SOLID\Logger\obj\Debug\netcoreapp3.0\Logger.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\01. CSharp-OOP-SOLID-Exercise\SOLID\Logger\obj\Debug\netcoreapp3.0\Logger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\01. CSharp-OOP-SOLID-Exercise\SOLID\Logger\obj\Debug\netcoreapp3.0\Logger.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\01. CSharp-OOP-SOLID-Exercise\SOLID\Logger\obj\Debug\netcoreapp3.0\Logger.AssemblyInfo.cs

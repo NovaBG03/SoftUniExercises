@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\InfernoInfinity\bin\Debug\netcoreapp2.1\InfernoInfinity.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\InfernoInfinity\obj\Debug\netcoreapp2.1\InfernoInfinity.pdb

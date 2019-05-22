@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\TrafficLights\bin\Debug\netcoreapp2.1\TrafficLights.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\02. CSharp-OOP-Reflection-And-Attributes-Exercises\Reflection\TrafficLights\obj\Debug\netcoreapp2.1\TrafficLights.pdb

@@ -1,7 +1,7 @@
 ﻿namespace InfernoInfinity.Contracts
 {
-    public interface IRarity : IDamageIncreaseable
+    public interface IRunnable
     {
-
+        void Run();
     }
 }

@@ -2,9 +2,9 @@
 
 namespace InfernoInfinity.Models.Rarities
 {
-    public abstract class Raritiy : IRaritiy
+    public abstract class Rarity : IRarity
     {
-        protected Raritiy(int damageIncrease)
+        protected Rarity(int damageIncrease)
         {
             this.DamageIncrease = damageIncrease;
         }

@@ -8,7 +8,7 @@ namespace InfernoInfinity.Models.Weapons
         private const int knifeMaxDamage = 4;
         private const int knifeNmberOfSockets = 2;
 
-        public Knife(string name, IRaritiy raritiy)
+        public Knife(string name, IRarity raritiy)
             : base(name, raritiy, knifeMinDamage, knifeMaxDamage, knifeNmberOfSockets)
         {
         }

@@ -4,7 +4,7 @@
     {
         private const int regularDamageIncrease = 2;
 
-        protected Regular()
+        public Regular()
             : base(regularDamageIncrease)
         {
         }

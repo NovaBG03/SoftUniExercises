@@ -4,7 +4,7 @@
     {
         private const int chippedDamageIncrease = 1;
 
-        protected Chipped() 
+        public Chipped() 
             : base(chippedDamageIncrease)
         {
         }

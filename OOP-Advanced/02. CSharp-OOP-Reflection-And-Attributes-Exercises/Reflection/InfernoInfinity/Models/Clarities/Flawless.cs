@@ -2,9 +2,9 @@
 {
     public class Flawless : Clarity
     {
-        private const int perfectDamageIncrease = 1;
+        private const int perfectDamageIncrease = 10;
 
-        protected Flawless()
+        public Flawless()
             : base(perfectDamageIncrease)
         {
         }

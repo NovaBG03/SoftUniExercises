@@ -9,7 +9,7 @@ namespace InfernoInfinity.Models.Weapons
         private readonly int maxDamage;
         private IGem[] sockets;
 
-        protected Weapon(string name, IRaritiy raritiy, int minDamage, int maxDamage, int numberOfSockets)
+        protected Weapon(string name, IRarity raritiy, int minDamage, int maxDamage, int numberOfSockets)
         {
             this.Name = name;
             this.minDamage = minDamage;
@@ -26,7 +26,7 @@ namespace InfernoInfinity.Models.Weapons
 
         public int NumberOfSockets => this.sockets.Length;
 
-        public IRaritiy Raritiy { get; }
+        public IRarity Raritiy { get; }
 
         public int Strength => this.CalculateGemStrengthBonus();
 
@@ -85,6 +85,32 @@ namespace InfernoInfinity.Models.Weapons
         {
             return $"{this.Name}: {this.MinDamage}-{this.MaxDamage} Damage" +
                 $", +{this.Strength} Strength, +{this.Agility} Agility, +{this.Vitality} Vitality";
+        }
+
+        public void AddGem(int socketIndex, IGem gem)
+        {
+            if (!this.IsInsideTheSocket(socketIndex))
+            {
+                return;
+            }
+
+            this.sockets[socketIndex] = gem;
+        }
+
+        public void ClearSocket(int socketIndex)
+        {
+            if (!this.IsInsideTheSocket(socketIndex))
+            {
+                return;
+            }
+
+            this.sockets[socketIndex] = null;
+        }
+
+        private bool IsInsideTheSocket(int socketIndex)
+        {
+            return socketIndex >= 0 
+                && socketIndex < this.NumberOfSockets;
         }
     }
 }

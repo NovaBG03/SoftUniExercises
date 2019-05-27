@@ -2,9 +2,9 @@
 {
     public class Perfect : Clarity
     {
-        private const int perfectDamageIncrease = 1;
+        private const int perfectDamageIncrease = 5;
 
-        protected Perfect()
+        public Perfect()
             : base(perfectDamageIncrease)
         {
         }

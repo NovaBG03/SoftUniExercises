@@ -8,7 +8,7 @@ namespace InfernoInfinity.Models.Weapons
         private const int axeMaxDamage = 10;
         private const int axeNmberOfSockets = 4;
 
-        public Axe(string name, IRaritiy raritiy) 
+        public Axe(string name, IRarity raritiy) 
             : base(name, raritiy, axeMinDamage, axeMaxDamage, axeNmberOfSockets)
         {
         }

@@ -10,6 +10,10 @@
 
         int NumberOfSockets { get; }
 
-        IRaritiy Raritiy { get; }
+        IRarity Raritiy { get; }
+
+        void AddGem(int socketIndex, IGem gem);
+
+        void ClearSocket(int socketIndex);
     }
 }

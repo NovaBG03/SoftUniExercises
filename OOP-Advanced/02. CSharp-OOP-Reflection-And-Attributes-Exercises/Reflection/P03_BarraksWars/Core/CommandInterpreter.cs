@@ -58,6 +58,6 @@ namespace _03BarracksFactory.Core
             var instace = (IExecutable)Activator.CreateInstance(commandType, arg);
 
             return instace;
-        }
+        } 
     }
 }

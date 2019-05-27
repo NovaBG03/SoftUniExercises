@@ -1,6 +1,6 @@
 ﻿namespace InfernoInfinity.Models.Rarities
 {
-    public class Rare : Raritiy
+    public class Rare : Rarity
     {
         private const int rareDamageIncrease = 3;
 

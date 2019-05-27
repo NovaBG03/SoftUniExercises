@@ -8,7 +8,7 @@ namespace InfernoInfinity.Models.Weapons
         private const int swordMaxDamage = 6;
         private const int swordNmberOfSockets = 3;
 
-        public Sword(string name, IRaritiy raritiy)
+        public Sword(string name, IRarity raritiy)
             : base(name, raritiy, swordMinDamage, swordMaxDamage, swordNmberOfSockets)
         {
         }

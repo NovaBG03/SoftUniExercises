@@ -1,9 +1,7 @@
 ﻿namespace InfernoInfinity.Contracts
 {
-    public interface IWeapon : IMegicalStats
+    public interface IWeapon : IMegicalStats, IIdentifiable
     {
-        string Name { get; }
-
         int MinDamage { get; }
 
         int MaxDamage { get; }

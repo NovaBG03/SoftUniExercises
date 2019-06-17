@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\EventImplementation\bin\Debug\netcoreapp2.1\EventImplementation.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\EventImplementation\obj\Debug\netcoreapp2.1\EventImplementation.pdb

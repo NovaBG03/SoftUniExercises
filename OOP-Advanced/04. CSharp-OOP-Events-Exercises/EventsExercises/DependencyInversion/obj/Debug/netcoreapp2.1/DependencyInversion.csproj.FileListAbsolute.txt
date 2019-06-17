@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\DependencyInversion\bin\Debug\netcoreapp2.1\DependencyInversion.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\DependencyInversion\bin\Debug\netcoreapp2.1\DependencyInversion.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\DependencyInversion\bin\Debug\netcoreapp2.1\DependencyInversion.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\DependencyInversion\bin\Debug\netcoreapp2.1\DependencyInversion.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\DependencyInversion\bin\Debug\netcoreapp2.1\DependencyInversion.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\DependencyInversion\obj\Debug\netcoreapp2.1\DependencyInversion.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\DependencyInversion\obj\Debug\netcoreapp2.1\DependencyInversion.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\DependencyInversion\obj\Debug\netcoreapp2.1\DependencyInversion.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\DependencyInversion\obj\Debug\netcoreapp2.1\DependencyInversion.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\DependencyInversion\obj\Debug\netcoreapp2.1\DependencyInversion.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\DependencyInversion\obj\Debug\netcoreapp2.1\DependencyInversion.pdb

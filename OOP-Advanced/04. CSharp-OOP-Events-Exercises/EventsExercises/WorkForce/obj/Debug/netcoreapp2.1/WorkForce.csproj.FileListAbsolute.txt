@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\WorkForce\obj\Debug\netcoreapp2.1\WorkForce.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\WorkForce\obj\Debug\netcoreapp2.1\WorkForce.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\WorkForce\obj\Debug\netcoreapp2.1\WorkForce.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\WorkForce\obj\Debug\netcoreapp2.1\WorkForce.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\WorkForce\bin\Debug\netcoreapp2.1\WorkForce.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\WorkForce\bin\Debug\netcoreapp2.1\WorkForce.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\WorkForce\bin\Debug\netcoreapp2.1\WorkForce.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\WorkForce\bin\Debug\netcoreapp2.1\WorkForce.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\WorkForce\bin\Debug\netcoreapp2.1\WorkForce.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\WorkForce\obj\Debug\netcoreapp2.1\WorkForce.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\04. CSharp-OOP-Events-Exercises\EventsExercises\WorkForce\obj\Debug\netcoreapp2.1\WorkForce.pdb

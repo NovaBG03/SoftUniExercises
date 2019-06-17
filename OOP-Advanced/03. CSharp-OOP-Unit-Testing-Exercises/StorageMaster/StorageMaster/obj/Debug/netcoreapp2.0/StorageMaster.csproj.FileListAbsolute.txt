@@ -9,3 +9,14 @@ C:\Users\Galin\Desktop\exercise\StorageMaster\obj\Debug\netcoreapp2.0\StorageMas
 C:\Users\Galin\Desktop\exercise\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfo.cs
 C:\Users\Galin\Desktop\exercise\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.dll
 C:\Users\Galin\Desktop\exercise\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\03. CSharp-OOP-Unit-Testing-Exercises\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\03. CSharp-OOP-Unit-Testing-Exercises\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\03. CSharp-OOP-Unit-Testing-Exercises\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\03. CSharp-OOP-Unit-Testing-Exercises\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\03. CSharp-OOP-Unit-Testing-Exercises\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\03. CSharp-OOP-Unit-Testing-Exercises\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\03. CSharp-OOP-Unit-Testing-Exercises\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\03. CSharp-OOP-Unit-Testing-Exercises\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\03. CSharp-OOP-Unit-Testing-Exercises\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\03. CSharp-OOP-Unit-Testing-Exercises\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\03. CSharp-OOP-Unit-Testing-Exercises\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.pdb

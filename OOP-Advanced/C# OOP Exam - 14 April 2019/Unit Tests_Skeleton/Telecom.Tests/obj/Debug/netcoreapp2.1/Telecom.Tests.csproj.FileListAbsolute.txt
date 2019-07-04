@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.pdb

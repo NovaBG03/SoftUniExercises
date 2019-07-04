@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.deps.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom\bin\Debug\netcoreapp2.1\Telecom.pdb
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\Administrator\Desktop\Codes\SoftUniExercises\OOP-Advanced\C# OOP Exam - 14 April 2019\Unit Tests_Skeleton\Telecom\obj\Debug\netcoreapp2.1\Telecom.pdb

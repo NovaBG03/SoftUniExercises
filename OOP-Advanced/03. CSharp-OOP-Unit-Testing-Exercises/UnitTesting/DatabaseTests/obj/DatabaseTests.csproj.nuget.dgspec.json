@@ -81,7 +81,12 @@
             "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "none"
+            }
+          }
         }
       }
     },
@@ -153,7 +158,12 @@
             "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "none"
+            }
+          }
         }
       }
     }

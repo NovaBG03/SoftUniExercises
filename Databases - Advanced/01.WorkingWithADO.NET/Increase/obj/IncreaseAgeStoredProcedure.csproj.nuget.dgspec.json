@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\НикитаКойнов\\Desktop\\SoftUniExercises\\Databases - Advanced\\01.WorkingWithADO.NET\\Increase\\IncreaseAgeStoredProcedure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\НикитаКойнов\\Desktop\\SoftUniExercises\\Databases - Advanced\\01.WorkingWithADO.NET\\Increase\\IncreaseAgeStoredProcedure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\НикитаКойнов\\Desktop\\SoftUniExercises\\Databases - Advanced\\01.WorkingWithADO.NET\\Increase\\IncreaseAgeStoredProcedure.csproj",
+        "projectName": "IncreaseAgeStoredProcedure",
+        "projectPath": "C:\\Users\\НикитаКойнов\\Desktop\\SoftUniExercises\\Databases - Advanced\\01.WorkingWithADO.NET\\Increase\\IncreaseAgeStoredProcedure.csproj",
+        "packagesPath": "C:\\Users\\НикитаКойнов\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\НикитаКойнов\\Desktop\\SoftUniExercises\\Databases - Advanced\\01.WorkingWithADO.NET\\Increase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\НикитаКойнов\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\НикитаКойнов\\Desktop\\SoftUniExercises\\Databases - Advanced\\01.WorkingWithADO.NET\\VillainNames\\VillainNames.csproj": {
+                "projectPath": "C:\\Users\\НикитаКойнов\\Desktop\\SoftUniExercises\\Databases - Advanced\\01.WorkingWithADO.NET\\VillainNames\\VillainNames.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\НикитаКойнов\\Desktop\\SoftUniExercises\\Databases - Advanced\\01.WorkingWithADO.NET\\VillainNames\\VillainNames.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\НикитаКойнов\\Desktop\\SoftUniExercises\\Databases - Advanced\\01.WorkingWithADO.NET\\VillainNames\\VillainNames.csproj",
+        "projectName": "VillainNames",
+        "projectPath": "C:\\Users\\НикитаКойнов\\Desktop\\SoftUniExercises\\Databases - Advanced\\01.WorkingWithADO.NET\\VillainNames\\VillainNames.csproj",
+        "packagesPath": "C:\\Users\\НикитаКойнов\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\НикитаКойнов\\Desktop\\SoftUniExercises\\Databases - Advanced\\01.WorkingWithADO.NET\\VillainNames\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\НикитаКойнов\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

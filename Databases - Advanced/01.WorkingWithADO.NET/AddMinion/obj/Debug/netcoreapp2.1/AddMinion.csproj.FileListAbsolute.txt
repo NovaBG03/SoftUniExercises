@@ -1,0 +1,14 @@
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\AddMinion\bin\Debug\netcoreapp2.1\AddMinion.deps.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\AddMinion\bin\Debug\netcoreapp2.1\AddMinion.runtimeconfig.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\AddMinion\bin\Debug\netcoreapp2.1\AddMinion.runtimeconfig.dev.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\AddMinion\bin\Debug\netcoreapp2.1\AddMinion.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\AddMinion\bin\Debug\netcoreapp2.1\VillainNames.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\AddMinion\bin\Debug\netcoreapp2.1\VillainNames.pdb
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\AddMinion\obj\Debug\netcoreapp2.1\AddMinion.csprojAssemblyReference.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\AddMinion\obj\Debug\netcoreapp2.1\AddMinion.csproj.CoreCompileInputs.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\AddMinion\obj\Debug\netcoreapp2.1\AddMinion.AssemblyInfoInputs.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\AddMinion\obj\Debug\netcoreapp2.1\AddMinion.AssemblyInfo.cs
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\AddMinion\obj\Debug\netcoreapp2.1\AddMinion.csproj.CopyComplete
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\AddMinion\bin\Debug\netcoreapp2.1\AddMinion.pdb
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\AddMinion\obj\Debug\netcoreapp2.1\AddMinion.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\AddMinion\obj\Debug\netcoreapp2.1\AddMinion.pdb

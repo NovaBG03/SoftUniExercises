@@ -1,0 +1,11 @@
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\VillainNames\bin\Debug\netcoreapp2.1\VillainNames.deps.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\VillainNames\bin\Debug\netcoreapp2.1\VillainNames.runtimeconfig.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\VillainNames\bin\Debug\netcoreapp2.1\VillainNames.runtimeconfig.dev.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\VillainNames\bin\Debug\netcoreapp2.1\VillainNames.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\VillainNames\obj\Debug\netcoreapp2.1\VillainNames.csproj.CoreCompileInputs.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\VillainNames\obj\Debug\netcoreapp2.1\VillainNames.AssemblyInfoInputs.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\VillainNames\obj\Debug\netcoreapp2.1\VillainNames.AssemblyInfo.cs
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\VillainNames\bin\Debug\netcoreapp2.1\VillainNames.pdb
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\VillainNames\obj\Debug\netcoreapp2.1\VillainNames.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\VillainNames\obj\Debug\netcoreapp2.1\VillainNames.pdb
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\VillainNames\obj\Debug\netcoreapp2.1\VillainNames.csprojAssemblyReference.cache

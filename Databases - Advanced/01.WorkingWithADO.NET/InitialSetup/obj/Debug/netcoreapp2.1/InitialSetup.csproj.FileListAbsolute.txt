@@ -1,0 +1,11 @@
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\InitialSetup\bin\Debug\netcoreapp2.1\InitialSetup.deps.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\InitialSetup\bin\Debug\netcoreapp2.1\InitialSetup.runtimeconfig.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\InitialSetup\bin\Debug\netcoreapp2.1\InitialSetup.runtimeconfig.dev.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\InitialSetup\bin\Debug\netcoreapp2.1\InitialSetup.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\InitialSetup\obj\Debug\netcoreapp2.1\InitialSetup.csprojAssemblyReference.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\InitialSetup\obj\Debug\netcoreapp2.1\InitialSetup.csproj.CoreCompileInputs.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\InitialSetup\obj\Debug\netcoreapp2.1\InitialSetup.AssemblyInfoInputs.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\InitialSetup\obj\Debug\netcoreapp2.1\InitialSetup.AssemblyInfo.cs
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\InitialSetup\bin\Debug\netcoreapp2.1\InitialSetup.pdb
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\InitialSetup\obj\Debug\netcoreapp2.1\InitialSetup.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\InitialSetup\obj\Debug\netcoreapp2.1\InitialSetup.pdb

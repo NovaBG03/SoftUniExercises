@@ -1,0 +1,14 @@
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\MinionNames\bin\Debug\netcoreapp2.1\MinionNames.deps.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\MinionNames\bin\Debug\netcoreapp2.1\MinionNames.runtimeconfig.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\MinionNames\bin\Debug\netcoreapp2.1\MinionNames.runtimeconfig.dev.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\MinionNames\bin\Debug\netcoreapp2.1\MinionNames.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\MinionNames\obj\Debug\netcoreapp2.1\MinionNames.csproj.CoreCompileInputs.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\MinionNames\obj\Debug\netcoreapp2.1\MinionNames.AssemblyInfoInputs.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\MinionNames\obj\Debug\netcoreapp2.1\MinionNames.AssemblyInfo.cs
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\MinionNames\bin\Debug\netcoreapp2.1\MinionNames.pdb
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\MinionNames\bin\Debug\netcoreapp2.1\VillainNames.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\MinionNames\bin\Debug\netcoreapp2.1\VillainNames.pdb
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\MinionNames\obj\Debug\netcoreapp2.1\MinionNames.csprojAssemblyReference.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\MinionNames\obj\Debug\netcoreapp2.1\MinionNames.csproj.CopyComplete
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\MinionNames\obj\Debug\netcoreapp2.1\MinionNames.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\MinionNames\obj\Debug\netcoreapp2.1\MinionNames.pdb

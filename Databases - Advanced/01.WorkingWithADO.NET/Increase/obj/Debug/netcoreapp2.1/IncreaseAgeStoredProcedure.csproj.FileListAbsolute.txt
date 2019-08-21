@@ -1,0 +1,13 @@
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\Increase\bin\Debug\netcoreapp2.1\IncreaseAgeStoredProcedure.deps.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\Increase\bin\Debug\netcoreapp2.1\IncreaseAgeStoredProcedure.runtimeconfig.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\Increase\bin\Debug\netcoreapp2.1\IncreaseAgeStoredProcedure.runtimeconfig.dev.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\Increase\bin\Debug\netcoreapp2.1\IncreaseAgeStoredProcedure.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\Increase\bin\Debug\netcoreapp2.1\IncreaseAgeStoredProcedure.pdb
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\Increase\bin\Debug\netcoreapp2.1\VillainNames.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\Increase\bin\Debug\netcoreapp2.1\VillainNames.pdb
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\Increase\obj\Debug\netcoreapp2.1\IncreaseAgeStoredProcedure.csproj.CoreCompileInputs.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\Increase\obj\Debug\netcoreapp2.1\IncreaseAgeStoredProcedure.AssemblyInfoInputs.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\Increase\obj\Debug\netcoreapp2.1\IncreaseAgeStoredProcedure.AssemblyInfo.cs
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\Increase\obj\Debug\netcoreapp2.1\IncreaseAgeStoredProcedure.csproj.CopyComplete
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\Increase\obj\Debug\netcoreapp2.1\IncreaseAgeStoredProcedure.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\Increase\obj\Debug\netcoreapp2.1\IncreaseAgeStoredProcedure.pdb

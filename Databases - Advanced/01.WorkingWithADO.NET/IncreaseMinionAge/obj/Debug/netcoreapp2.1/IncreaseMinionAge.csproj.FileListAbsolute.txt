@@ -1,0 +1,14 @@
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\IncreaseMinionAge\bin\Debug\netcoreapp2.1\IncreaseMinionAge.deps.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\IncreaseMinionAge\bin\Debug\netcoreapp2.1\IncreaseMinionAge.runtimeconfig.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\IncreaseMinionAge\bin\Debug\netcoreapp2.1\IncreaseMinionAge.runtimeconfig.dev.json
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\IncreaseMinionAge\bin\Debug\netcoreapp2.1\IncreaseMinionAge.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\IncreaseMinionAge\bin\Debug\netcoreapp2.1\IncreaseMinionAge.pdb
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\IncreaseMinionAge\bin\Debug\netcoreapp2.1\VillainNames.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\IncreaseMinionAge\bin\Debug\netcoreapp2.1\VillainNames.pdb
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\IncreaseMinionAge\obj\Debug\netcoreapp2.1\IncreaseMinionAge.csprojAssemblyReference.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\IncreaseMinionAge\obj\Debug\netcoreapp2.1\IncreaseMinionAge.csproj.CoreCompileInputs.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\IncreaseMinionAge\obj\Debug\netcoreapp2.1\IncreaseMinionAge.AssemblyInfoInputs.cache
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\IncreaseMinionAge\obj\Debug\netcoreapp2.1\IncreaseMinionAge.AssemblyInfo.cs
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\IncreaseMinionAge\obj\Debug\netcoreapp2.1\IncreaseMinionAge.csproj.CopyComplete
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\IncreaseMinionAge\obj\Debug\netcoreapp2.1\IncreaseMinionAge.dll
+C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\01.WorkingWithADO.NET\IncreaseMinionAge\obj\Debug\netcoreapp2.1\IncreaseMinionAge.pdb

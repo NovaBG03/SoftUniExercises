@@ -1,10 +1,12 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Metadata;
-
-namespace DBFirst.Data
+﻿namespace SoftUni.Data
 {
-    public partial class SoftUniContext : DbContext
+    using System;
+    using Microsoft.EntityFrameworkCore;
+    using Microsoft.EntityFrameworkCore.Metadata;
+
+    using SoftUni.Models;
+
+    public class SoftUniContext : DbContext
     {
         public SoftUniContext()
         {
@@ -15,18 +17,18 @@ namespace DBFirst.Data
         {
         }
 
-        public virtual DbSet<Addresses> Addresses { get; set; }
-        public virtual DbSet<Departments> Departments { get; set; }
-        public virtual DbSet<Employees> Employees { get; set; }
-        public virtual DbSet<EmployeesProjects> EmployeesProjects { get; set; }
-        public virtual DbSet<Projects> Projects { get; set; }
-        public virtual DbSet<Towns> Towns { get; set; }
+        public DbSet<Address> Addresses { get; set; }
+        public DbSet<Department> Departments { get; set; }
+        public DbSet<Employee> Employees { get; set; }
+        public DbSet<EmployeeProject> EmployeesProjects { get; set; }
+        public DbSet<Project> Projects { get; set; }
+        public DbSet<Town> Towns { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
+                //#warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
                 optionsBuilder.UseSqlServer("Server=DESKTOP-88IRS4K\\SQLEXPRESS;Database=SoftUni;Integrated Security=True;");
             }
         }
@@ -35,7 +37,7 @@ namespace DBFirst.Data
         {
             modelBuilder.HasAnnotation("ProductVersion", "2.2.0-rtm-35687");
 
-            modelBuilder.Entity<Addresses>(entity =>
+            modelBuilder.Entity<Address>(entity =>
             {
                 entity.HasKey(e => e.AddressId);
 
@@ -51,10 +53,10 @@ namespace DBFirst.Data
                 entity.HasOne(d => d.Town)
                     .WithMany(p => p.Addresses)
                     .HasForeignKey(d => d.TownId)
-                    .HasConstraintName("FK_Addresses_Towns");
+                    .HasConstraintName("FK_Address_Towns");
             });
 
-            modelBuilder.Entity<Departments>(entity =>
+            modelBuilder.Entity<Department>(entity =>
             {
                 entity.HasKey(e => e.DepartmentId);
 
@@ -74,7 +76,7 @@ namespace DBFirst.Data
                     .HasConstraintName("FK_Departments_Employees");
             });
 
-            modelBuilder.Entity<Employees>(entity =>
+            modelBuilder.Entity<Employee>(entity =>
             {
                 entity.HasKey(e => e.EmployeeId);
 
@@ -126,7 +128,7 @@ namespace DBFirst.Data
                     .HasConstraintName("FK_Employees_Employees");
             });
 
-            modelBuilder.Entity<EmployeesProjects>(entity =>
+            modelBuilder.Entity<EmployeeProject>(entity =>
             {
                 entity.HasKey(e => new { e.EmployeeId, e.ProjectId });
 
@@ -147,7 +149,7 @@ namespace DBFirst.Data
                     .HasConstraintName("FK_EmployeesProjects_Projects");
             });
 
-            modelBuilder.Entity<Projects>(entity =>
+            modelBuilder.Entity<Project>(entity =>
             {
                 entity.HasKey(e => e.ProjectId);
 
@@ -165,7 +167,7 @@ namespace DBFirst.Data
                 entity.Property(e => e.StartDate).HasColumnType("smalldatetime");
             });
 
-            modelBuilder.Entity<Towns>(entity =>
+            modelBuilder.Entity<Town>(entity =>
             {
                 entity.HasKey(e => e.TownId);
 

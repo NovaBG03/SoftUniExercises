@@ -9,3 +9,14 @@ C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\
 C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\03. IntroductionToEntityFramework\DBFirst\bin\Debug\netcoreapp2.1\DBFirst.pdb
 C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\03. IntroductionToEntityFramework\DBFirst\obj\Debug\netcoreapp2.1\DBFirst.dll
 C:\Users\НикитаКойнов\Desktop\SoftUniExercises\Databases - Advanced\03. IntroductionToEntityFramework\DBFirst\obj\Debug\netcoreapp2.1\DBFirst.pdb
+C:\Playground\SoftUniExercises\Databases - Advanced\03. IntroductionToEntityFramework\DBFirst\bin\Debug\netcoreapp2.1\DBFirst.deps.json
+C:\Playground\SoftUniExercises\Databases - Advanced\03. IntroductionToEntityFramework\DBFirst\bin\Debug\netcoreapp2.1\DBFirst.runtimeconfig.json
+C:\Playground\SoftUniExercises\Databases - Advanced\03. IntroductionToEntityFramework\DBFirst\bin\Debug\netcoreapp2.1\DBFirst.runtimeconfig.dev.json
+C:\Playground\SoftUniExercises\Databases - Advanced\03. IntroductionToEntityFramework\DBFirst\bin\Debug\netcoreapp2.1\DBFirst.dll
+C:\Playground\SoftUniExercises\Databases - Advanced\03. IntroductionToEntityFramework\DBFirst\bin\Debug\netcoreapp2.1\DBFirst.pdb
+C:\Playground\SoftUniExercises\Databases - Advanced\03. IntroductionToEntityFramework\DBFirst\obj\Debug\netcoreapp2.1\DBFirst.csprojAssemblyReference.cache
+C:\Playground\SoftUniExercises\Databases - Advanced\03. IntroductionToEntityFramework\DBFirst\obj\Debug\netcoreapp2.1\DBFirst.csproj.CoreCompileInputs.cache
+C:\Playground\SoftUniExercises\Databases - Advanced\03. IntroductionToEntityFramework\DBFirst\obj\Debug\netcoreapp2.1\DBFirst.AssemblyInfoInputs.cache
+C:\Playground\SoftUniExercises\Databases - Advanced\03. IntroductionToEntityFramework\DBFirst\obj\Debug\netcoreapp2.1\DBFirst.AssemblyInfo.cs
+C:\Playground\SoftUniExercises\Databases - Advanced\03. IntroductionToEntityFramework\DBFirst\obj\Debug\netcoreapp2.1\DBFirst.dll
+C:\Playground\SoftUniExercises\Databases - Advanced\03. IntroductionToEntityFramework\DBFirst\obj\Debug\netcoreapp2.1\DBFirst.pdb

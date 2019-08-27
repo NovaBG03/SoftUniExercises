@@ -1,20 +1,22 @@
-﻿namespace DBFirst.Models
+﻿namespace SoftUni.Models
 {
     using System;
     using System.Collections.Generic;
 
-    public partial class Department
+    public class Department
     {
         public Department()
         {
-            Employees = new HashSet<Employee>();
+            this.Employees = new HashSet<Employee>();
         }
 
         public int DepartmentId { get; set; }
+
         public string Name { get; set; }
+
         public int ManagerId { get; set; }
 
-        public virtual Employee Manager { get; set; }
-        public virtual ICollection<Employee> Employees { get; set; }
+        public Employee Manager { get; set; }
+        public ICollection<Employee> Employees { get; set; }
     }
 }

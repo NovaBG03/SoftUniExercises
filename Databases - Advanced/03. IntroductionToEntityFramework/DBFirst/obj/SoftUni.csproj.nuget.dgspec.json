@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\03. IntroductionToEntityFramework\\DBFirst\\DBFirst.csproj": {}
+    "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\03. IntroductionToEntityFramework\\DBFirst\\SoftUni.csproj": {}
   },
   "projects": {
-    "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\03. IntroductionToEntityFramework\\DBFirst\\DBFirst.csproj": {
+    "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\03. IntroductionToEntityFramework\\DBFirst\\SoftUni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\03. IntroductionToEntityFramework\\DBFirst\\DBFirst.csproj",
-        "projectName": "DBFirst",
-        "projectPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\03. IntroductionToEntityFramework\\DBFirst\\DBFirst.csproj",
+        "projectUniqueName": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\03. IntroductionToEntityFramework\\DBFirst\\SoftUni.csproj",
+        "projectName": "SoftUni",
+        "projectPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\03. IntroductionToEntityFramework\\DBFirst\\SoftUni.csproj",
         "packagesPath": "C:\\Users\\НикитаКойнов\\.nuget\\packages\\",
         "outputPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\03. IntroductionToEntityFramework\\DBFirst\\obj\\",
         "projectStyle": "PackageReference",
@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[2.2.0, )"

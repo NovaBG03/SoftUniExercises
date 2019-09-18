@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.App\\BillsPaymentSystem.App.csproj": {}
+  },
+  "projects": {
+    "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.App\\BillsPaymentSystem.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.App\\BillsPaymentSystem.App.csproj",
+        "projectName": "BillsPaymentSystem.App",
+        "projectPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.App\\BillsPaymentSystem.App.csproj",
+        "packagesPath": "C:\\Users\\nikita\\.nuget\\packages\\",
+        "outputPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.App\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.Data\\BillsPaymentSystem.Data.csproj": {
+                "projectPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.Data\\BillsPaymentSystem.Data.csproj"
+              },
+              "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.Models\\BillsPaymentSystem.Models.csproj": {
+                "projectPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.Models\\BillsPaymentSystem.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.Data\\BillsPaymentSystem.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.Data\\BillsPaymentSystem.Data.csproj",
+        "projectName": "BillsPaymentSystem.Data",
+        "projectPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.Data\\BillsPaymentSystem.Data.csproj",
+        "packagesPath": "C:\\Users\\nikita\\.nuget\\packages\\",
+        "outputPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.Models\\BillsPaymentSystem.Models.csproj": {
+                "projectPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.Models\\BillsPaymentSystem.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.Models\\BillsPaymentSystem.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.Models\\BillsPaymentSystem.Models.csproj",
+        "projectName": "BillsPaymentSystem.Models",
+        "projectPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.Models\\BillsPaymentSystem.Models.csproj",
+        "packagesPath": "C:\\Users\\nikita\\.nuget\\packages\\",
+        "outputPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\06. AdvancedRelations\\BillsPaymentSystem.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,7 +1,8 @@
 ﻿namespace BillsPaymentSystem.Models
 {
     using System;
-    using BillsPaymentSystem.Models.CustomAttributes;
+
+    using CustomAttributes;
     using Enums;
 
 
@@ -9,7 +10,7 @@
     {
         public int Id { get; set; }
 
-        public PaymentType Type { get; set; }
+        public PaymentType PaymentType { get; set; }
 
         public int UserId { get; set; }
 

@@ -69,7 +69,7 @@ namespace BillsPaymentSystem.Data.Migrations
 
                     b.Property<int?>("CreditCardId");
 
-                    b.Property<int>("Type");
+                    b.Property<int>("PaymentType");
 
                     b.Property<int>("UserId");
 
@@ -83,8 +83,7 @@ namespace BillsPaymentSystem.Data.Migrations
                         .IsUnique()
                         .HasFilter("[CreditCardId] IS NOT NULL");
 
-                    b.HasIndex("UserId")
-                        .IsUnique();
+                    b.HasIndex("UserId");
 
                     b.ToTable("PaymentMethods");
                 });
@@ -131,8 +130,8 @@ namespace BillsPaymentSystem.Data.Migrations
                         .HasForeignKey("BillsPaymentSystem.Models.PaymentMethod", "CreditCardId");
 
                     b.HasOne("BillsPaymentSystem.Models.User", "User")
-                        .WithOne("PaymentMethod")
-                        .HasForeignKey("BillsPaymentSystem.Models.PaymentMethod", "UserId")
+                        .WithMany("PaymentMethods")
+                        .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade);
                 });
 #pragma warning restore 612, 618

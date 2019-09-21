@@ -6,22 +6,22 @@
     [AttributeUsage(AttributeTargets.Property)]
     public class XorAttribute : ValidationAttribute
     {
-        private string xorTargetAttribute;
+        private string xorTargetProperty;
 
-        public XorAttribute(string xorTargetAttribute)
+        public XorAttribute(string xorTargetProperty)
         {
-            this.xorTargetAttribute = xorTargetAttribute;
+            this.xorTargetProperty = xorTargetProperty;
         }
 
         protected override ValidationResult IsValid(object value, ValidationContext validationContext)
         {
-            var targetAttribute = validationContext
+            var targetPropertyValue = validationContext
                 .ObjectType
-                .GetProperty(xorTargetAttribute)
+                .GetProperty(xorTargetProperty)
                 .GetValue(validationContext.ObjectInstance);
 
-            if ((targetAttribute == null && value != null)
-                || (targetAttribute != null && value == null))
+            if ((targetPropertyValue == null && value != null)
+                || (targetPropertyValue != null && value == null))
             {
                 return ValidationResult.Success;
             }

@@ -18,8 +18,8 @@
 
             builder
                 .HasOne(p => p.User)
-                .WithOne(u => u.PaymentMethod)
-                .HasForeignKey<PaymentMethod>(p => p.UserId);
+                .WithMany(u => u.PaymentMethods)
+                .HasForeignKey(p => p.UserId);
 
             builder
                 .HasOne(p => p.BankAccount)

@@ -60,7 +60,7 @@ namespace BillsPaymentSystem.Data.Migrations
                 {
                     Id = table.Column<int>(nullable: false)
                         .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
-                    Type = table.Column<int>(nullable: false),
+                    PaymentType = table.Column<int>(nullable: false),
                     UserId = table.Column<int>(nullable: false),
                     BankAccountId = table.Column<int>(nullable: true),
                     CreditCardId = table.Column<int>(nullable: true)
@@ -105,8 +105,7 @@ namespace BillsPaymentSystem.Data.Migrations
             migrationBuilder.CreateIndex(
                 name: "IX_PaymentMethods_UserId",
                 table: "PaymentMethods",
-                column: "UserId",
-                unique: true);
+                column: "UserId");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)

@@ -5,18 +5,21 @@
     using Models;
     using Models.Enums;
     using Data;
+    using Core;
+    using Core.Contracts;
 
     public class StartUp
     {
         static void Main(string[] args)
         {
-            using (var context = new BillsPaymentSystemContext())
-            {
-                //SeedDatabase(context);
-            }
+            //SeedDatabase();
+
+            ICommandInterpreter commandInterpreter = new CommandInterpreter();
+            IEngine engine = new Engine(commandInterpreter);
+            engine.Run();
         }
 
-        private static void SeedDatabase(BillsPaymentSystemContext context)
+        private static void SeedDatabase()
         {
             PaymentMethod[] paymentMethods =
             {
@@ -184,9 +187,12 @@
                 }
             };
 
-            context.PaymentMethods.AddRange(paymentMethods);
+            using (var context = new BillsPaymentSystemContext())
+            {
+                context.PaymentMethods.AddRange(paymentMethods);
 
-            context.SaveChanges();
+                context.SaveChanges();
+            }            
         }
     }
 }

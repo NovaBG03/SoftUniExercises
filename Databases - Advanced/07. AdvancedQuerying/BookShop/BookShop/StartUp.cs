@@ -3,6 +3,8 @@
     using System;
     using System.Linq;
     using System.Globalization;
+    using System.Text;
+    using Microsoft.EntityFrameworkCore;
 
     using Models.Enums;
     using Data;
@@ -21,7 +23,7 @@
 
                 using (BookShopContext context = new BookShopContext())
                 {
-                    result = GetTotalProfitByCategory(context).ToString();
+                    result = RemoveBooks(context).ToString();
                 }
 
                 Console.WriteLine(result);
@@ -199,6 +201,62 @@
             var result = string.Join(Environment.NewLine, lines);
 
             return result;
+        }
+
+        public static string GetMostRecentBooks(BookShopContext context)
+        {
+            var categories = context.Categories
+                .OrderBy(c => c.Name)
+                .Select(c => new
+                {
+                    CategoryName = c.Name,
+                    LastThreeBooks = c.CategoryBooks
+                        .OrderByDescending(cb => cb.Book.ReleaseDate)
+                        .Select(cb => new
+                        {
+                            Title = cb.Book.Title,
+                            ReleaseYear = cb.Book.ReleaseDate.Value.Year
+                        })
+                        .ToArray()
+                })
+                .ToArray();
+
+            var builder = new StringBuilder();
+
+            foreach (var category in categories)
+            {
+                builder.AppendLine($"--{category.CategoryName}");
+
+                foreach (var book in category.LastThreeBooks)
+                {
+                    builder.AppendLine($"{book.Title} ({book.ReleaseYear})");
+                }
+            }
+
+            return builder.ToString().TrimEnd();
+        }
+
+        public static void IncreasePrices(BookShopContext context)
+        {
+            context.Books
+                .Where(b => b.ReleaseDate.Value.Year < 2010)
+                .ToList()
+                .ForEach(b => b.Price += 5);
+
+            context.SaveChanges();
+        }
+
+        public static int RemoveBooks(BookShopContext context)
+        {
+            var books = context.Books
+                .Where(b => b.Copies < 4200)
+                .ToList();
+
+            context.Books.RemoveRange(books);
+
+            var result = context.SaveChanges();
+
+            return books.Count;
         }
     }
 }

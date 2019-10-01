@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Data\\MyApp.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Data\\MyApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Data\\MyApp.Data.csproj",
+        "projectName": "MyApp.Data",
+        "projectPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Data\\MyApp.Data.csproj",
+        "packagesPath": "C:\\Users\\nikita\\.nuget\\packages\\",
+        "outputPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Models\\MyApp.Models.csproj": {
+                "projectPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Models\\MyApp.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Models\\MyApp.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Models\\MyApp.Models.csproj",
+        "projectName": "MyApp.Models",
+        "projectPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Models\\MyApp.Models.csproj",
+        "packagesPath": "C:\\Users\\nikita\\.nuget\\packages\\",
+        "outputPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer.Design": {
+              "target": "Package",
+              "version": "[1.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

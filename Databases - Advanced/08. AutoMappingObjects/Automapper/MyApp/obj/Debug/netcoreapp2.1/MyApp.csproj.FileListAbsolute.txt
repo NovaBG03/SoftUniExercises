@@ -1,0 +1,28 @@
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.deps.json
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.json
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.dev.json
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.dll
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.pdb
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfoInputs.cache
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfo.cs
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.dll
+C:\Users\Stoyan\source\repos\CustomAutomapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.pdb
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.deps.json
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.json
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.runtimeconfig.dev.json
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.dll
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.pdb
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.csprojAssemblyReference.cache
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CoreCompileInputs.cache
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfoInputs.cache
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.AssemblyInfo.cs
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.dll
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.pdb
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\Automapper.dll
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.Data.dll
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.Models.dll
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\Automapper.pdb
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.Data.pdb
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.Models.pdb
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CopyComplete

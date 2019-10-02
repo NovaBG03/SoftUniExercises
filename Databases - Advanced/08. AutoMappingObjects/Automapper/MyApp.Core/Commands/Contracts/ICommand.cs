@@ -1,4 +1,4 @@
-﻿namespace MyApp.Core.Command.Contracts
+﻿namespace MyApp.Core.Commands.Contracts
 {
     public interface ICommand
     {

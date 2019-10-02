@@ -26,3 +26,5 @@ C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Autom
 C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.Data.pdb
 C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.Models.pdb
 C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\obj\Debug\netcoreapp2.1\MyApp.csproj.CopyComplete
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.Core.dll
+C:\Playground\SoftUniExercises\Databases - Advanced\08. AutoMappingObjects\Automapper\MyApp\bin\Debug\netcoreapp2.1\MyApp.Core.pdb

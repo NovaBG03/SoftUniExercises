@@ -981,6 +981,20 @@
           "bin/placeholder/Automapper.dll": {}
         }
       },
+      "MyApp.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Automapper": "1.0.0",
+          "MyApp.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MyApp.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MyApp.Core.dll": {}
+        }
+      },
       "MyApp.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -3707,6 +3721,11 @@
       "path": "../Automapper/Automapper.csproj",
       "msbuildProject": "../Automapper/Automapper.csproj"
     },
+    "MyApp.Core/1.0.0": {
+      "type": "project",
+      "path": "../MyApp.Core/MyApp.Core.csproj",
+      "msbuildProject": "../MyApp.Core/MyApp.Core.csproj"
+    },
     "MyApp.Data/1.0.0": {
       "type": "project",
       "path": "../MyApp.Data/MyApp.Data.csproj",
@@ -3725,6 +3744,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer.Design >= 1.1.6",
       "Microsoft.EntityFrameworkCore.Tools >= 2.2.6",
       "Microsoft.NETCore.App >= 2.1.0",
+      "MyApp.Core >= 1.0.0",
       "MyApp.Data >= 1.0.0",
       "MyApp.Models >= 1.0.0"
     ]
@@ -3761,6 +3781,9 @@
           "projectReferences": {
             "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\Automapper\\Automapper.csproj": {
               "projectPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\Automapper\\Automapper.csproj"
+            },
+            "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Core\\MyApp.Core.csproj": {
+              "projectPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Core\\MyApp.Core.csproj"
             },
             "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Data\\MyApp.Data.csproj": {
               "projectPath": "C:\\Playground\\SoftUniExercises\\Databases - Advanced\\08. AutoMappingObjects\\Automapper\\MyApp.Data\\MyApp.Data.csproj"

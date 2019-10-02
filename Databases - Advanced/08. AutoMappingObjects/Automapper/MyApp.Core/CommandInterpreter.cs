@@ -5,11 +5,18 @@
     using System.Reflection;
 
     using Contracts;
-    using Command.Contracts;
+    using Commands.Contracts;
 
     public class CommandInterpreter : ICommandInterpreter
     {
         private const string Suffix = "Command";
+
+        private readonly IServiceProvider serviceProvider;
+
+        public CommandInterpreter(IServiceProvider serviceProvider)
+        {
+            this.serviceProvider = serviceProvider;
+        }
 
         public string Read(string[] args)
         {
@@ -31,7 +38,7 @@
             return result;
         }
 
-        private static ICommand CreateCommandInstance(Type commandType)
+        private ICommand CreateCommandInstance(Type commandType)
         {
             var constructor = commandType
                 .GetConstructors()
@@ -39,14 +46,15 @@
 
             var constructorParamTypes = constructor
                 .GetParameters()
-                .Select(p => p.ParameterType)
+                .Select(p => p.ParameterType);
+
+            var constructorParamInstances = constructorParamTypes
+                .Select(t => this.serviceProvider.GetService(t))
                 .ToArray();
 
-            //constructorParamTypes => services
+            var command = (ICommand)constructor.Invoke(constructorParamInstances);
 
-            //invoke ctor with services
-
-            //return command
+            return command;
         }
 
         private Type GetCommandType(string commandName)

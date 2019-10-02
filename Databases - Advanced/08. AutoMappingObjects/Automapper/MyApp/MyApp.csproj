@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Automapper\Automapper.csproj" />
+    <ProjectReference Include="..\MyApp.Core\MyApp.Core.csproj" />
     <ProjectReference Include="..\MyApp.Data\MyApp.Data.csproj" />
     <ProjectReference Include="..\MyApp.Models\MyApp.Models.csproj" />
   </ItemGroup>

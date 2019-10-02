@@ -15,12 +15,23 @@
 
         public void Run()
         {
-            var input = Console.ReadLine()
-                .Split();
+            while (true)
+            {
+                var input = Console.ReadLine()
+                    .Split();
 
-            var result = commandInterpreter.Read(input);
+                try
+                {
+                    var result = commandInterpreter.Read(input);
 
-            Console.WriteLine(result, StringSplitOptions.RemoveEmptyEntries);
+                    Console.WriteLine(result, StringSplitOptions.RemoveEmptyEntries);
+                }
+                catch (Exception)
+                {
+                    Console.WriteLine("Error Or Invalid Command");
+                }
+
+            }
         }
     }
 }

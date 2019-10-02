@@ -1,4 +1,4 @@
-﻿namespace MyApp.Core.Command
+﻿namespace MyApp.Core.Commands
 {
     using System;
 
@@ -39,7 +39,7 @@
             this.context.Employees.Add(employee);
             this.context.SaveChanges();
 
-            var employeeDto = mapper.CreateMappedObject<EmployeeDto>(employee);
+            var employeeDto = mapper.CreateMappedObject<EmployeeSalaryDto>(employee);
 
             return string.Format(Message, employeeDto.FirstName, employeeDto.LastName, employeeDto.Salary);
         }

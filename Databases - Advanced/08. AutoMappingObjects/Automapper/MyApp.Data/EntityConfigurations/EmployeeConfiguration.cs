@@ -23,6 +23,11 @@
             builder
                 .Property(e => e.LastName)
                 .IsRequired();
+
+            builder
+                .HasOne(e => e.Manager)
+                .WithMany(m => m.Employees)
+                .HasForeignKey(e => e.ManagerId);
         }
     }
 }

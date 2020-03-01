@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panda", "Panda\Panda.csproj", "{223D234E-71F9-4525-800C-F7F2F9529FF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panda.Data", "Panda.Data\Panda.Data.csproj", "{9577F4F2-4A00-4213-8266-54B16D5A866D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Panda.Domain", "Panda.Domain\Panda.Domain.csproj", "{8C4551B5-205A-4B89-A89D-A7951AD48F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{223D234E-71F9-4525-800C-F7F2F9529FF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223D234E-71F9-4525-800C-F7F2F9529FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223D234E-71F9-4525-800C-F7F2F9529FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223D234E-71F9-4525-800C-F7F2F9529FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9577F4F2-4A00-4213-8266-54B16D5A866D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9577F4F2-4A00-4213-8266-54B16D5A866D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9577F4F2-4A00-4213-8266-54B16D5A866D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9577F4F2-4A00-4213-8266-54B16D5A866D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4551B5-205A-4B89-A89D-A7951AD48F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4551B5-205A-4B89-A89D-A7951AD48F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4551B5-205A-4B89-A89D-A7951AD48F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4551B5-205A-4B89-A89D-A7951AD48F16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {872F84E7-0131-4726-AB7E-81BCC26BFADD}
+	EndGlobalSection
+EndGlobal

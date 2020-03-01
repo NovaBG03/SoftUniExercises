@@ -21,7 +21,7 @@ namespace CatWebsite
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
+            services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
             services.AddDbContext<CatDbContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
@@ -35,18 +35,18 @@ namespace CatWebsite
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseHttpsRedirection();
+            app.UseStaticFiles();
+
             app.UseRouting();
+
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
                     name: "catRoute",
-                    pattern: "cats/{catId}",
-                    defaults: new { controller = "Cat", action = "Info" });
-
-                endpoints.MapControllerRoute(
-                    name: "catRoute",
-                    pattern: "cats/{action=Add}",
+                    pattern: "cats/{action}/{catId?}",
                     defaults: new { controller = "Cat" });
 
                 endpoints.MapControllerRoute(

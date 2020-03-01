@@ -180,7 +180,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nikic\\.nuget\\packages\\": {}
+    "C:\\Users\\nikic\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -191,6 +192,9 @@
       "packagesPath": "C:\\Users\\nikic\\.nuget\\packages\\",
       "outputPath": "C:\\Programming\\SoftUniExercises\\ASP.NET Core MVC\\01. Introduction-to-ASP.NET-Core-MVC\\CatExhibitionWebsite\\CatWebsite.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "C:\\Users\\nikic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

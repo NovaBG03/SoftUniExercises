@@ -8,10 +8,10 @@
 <ul>
     @foreach (var cat in Model)
     {
-        <li><a href="/cats/@cat.Id">@cat.Name</a></li>
+        <li><a href="/cats/Info/@cat.Id">@cat.Name</a></li>
     }
 </ul>
-<form action="/cats/add" method="get" target="_self">
+<form action="/cats/add" target="_self">
     <button type="submit">Add Cat</button>
 </form>
 

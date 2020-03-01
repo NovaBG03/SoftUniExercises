@@ -13,6 +13,7 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"cb7708efccbe1d54ab92ce044c75477b1be28b3e", @"/Views/Cat/Info.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a9af4978b9c2bfca24ef48e96efe5f8573634464", @"/Views/_ViewImports.cshtml")]
     public class Views_Cat_Info : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<CatWebsite.Models.CatInfoViewModel>
     {
         #pragma warning disable 1998
